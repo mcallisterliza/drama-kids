@@ -44,7 +44,7 @@ header a {
 h1 {
     font-family: 'Roboto', sans-serif; 
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color:#252525;
 }
 
@@ -71,20 +71,19 @@ nav{
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display:none;
-    top:100%
+    top:100%;
 }
 
 /*Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
 }
-
-#nav-toggle{
+#nav-toggle {
     display: none;
 }
 
-.nav-toggle-label{
-    font-size:2rem;
+.nav-toggle-label {
+    font-size: 2rem;
 }
 /* Main content */
 main {
@@ -95,8 +94,18 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: orange;
+.social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -110,7 +119,7 @@ footer {
         padding-right: 1rem;
     }
     .menu {
-        display:flex
+        display:flex;
     }
     .menu > li {
         padding-left: 1rem;
@@ -121,7 +130,7 @@ footer {
     .logo {
         font-size: 280%;
         line-height: 75px;
-        margin: 0 05.rem;
+        margin: 0 0.5rem;
     }
 
     /* Main content */
