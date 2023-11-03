@@ -62,10 +62,12 @@ h1 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+
+
 /* Navbar styles with dropdown toggle */
 nav{
     position: absolute;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -100,6 +102,31 @@ main {
     background-color: lightgreen;
     background: url("../images/physical-theatre.jpg") no-repeat center center/cover;
 
+}
+
+/* Section 1 */
+.about_us {
+    background-color: #ffffff;
+    color:#252525;
+}
+
+
+/* Section 2 */
+.section_2 {
+    background-color: #ffffff;
+    color: #252525;;
+}
+
+.section_2_reviews {
+    background-color: #ffffff;
+    color: #252525;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2rem;
+}
+
+.reviews {
+    text-align: center;
 }
 
 /* Footer */
@@ -148,6 +175,9 @@ main {
         margin-top: 77px;
     }
 
+    .section_2_reviews {
+        grid-template-columns: 2fr 2fr;}
+
     
 }
 /* Large devices (laptops and desktops, 992px and up) */
@@ -157,3 +187,10 @@ main {
         }
     
         }
+
+/* small devices */
+@media (max-width: 480px) {
+    .section_2_reviews {
+        grid-template-columns: 2fr;
+    } 
+    
