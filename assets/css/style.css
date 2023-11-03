@@ -100,11 +100,12 @@ main {
 .hero {
     height: 600px;
     width:100%;
-    background-color: lightgreen;
-    background: url("../images/physical-theatre.jpg") no-repeat center center/cover;
+    background-color: #ffffff;
+    background: url("../images/physical-theatre.jpg") no-repeat center center/cover fixed;
     background-attachment: fixed;
 
 }
+
 
 /* Section 1 */
 .about_us {
