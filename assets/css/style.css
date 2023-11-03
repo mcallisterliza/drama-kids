@@ -98,14 +98,20 @@ main {
 
 /* Hero section NOTE THIS MAY CHANGE*/
 .hero {
-    height: 600px;
+    height: 400px;
     width:100%;
     background-color: #ffffff;
     background: url("../images/physical-theatre.jpg") no-repeat center center/cover fixed;
     background-attachment: fixed;
 
 }
-
+.review img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #252525;
+    
+}
 
 /* Section 1 */
 .about_us {
@@ -132,6 +138,7 @@ main {
 
 .review_header {
     letter-spacing: 3px;
+    font-size: 2rem;
 }
 
 .section_2_reviews {
