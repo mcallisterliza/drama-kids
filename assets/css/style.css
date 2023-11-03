@@ -108,32 +108,48 @@ main {
 .about_us {
     background-color: #ffffff;
     color:#252525;
+    text-align: center;
+    padding-top: 8px;
+    letter-spacing: 3px;
 }
+
+.welcome {
+    padding: 2rem 2rem;
+}
+
 
 
 /* Section 2 */
 .section_2 {
     background-color: #ffffff;
-    color: #252525;;
+    color: #252525;
+    text-align: center;
+}
+
+.review_header {
+    letter-spacing: 3px;
 }
 
 .section_2_reviews {
     background-color: #ffffff;
     color: #252525;
+    text-align: center;
     width: 100%;
     display: flex;
-    align-items: center;
     justify-content: center;
+    
 }
 
-/* .reviews {
+
+.review {
+    padding: 2rem 2rem;
     text-align: center;
-} */
+}
 
 /* Footer */
 
 
-.social-networks, .connect {
+.social-networks {
     text-align: center;
     padding: 20px 0;
     display: flex;
@@ -146,7 +162,24 @@ main {
 .social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #ffffff;
+    
+}
+
+.connect { text-align: center;
+    background-color: #252525;
+    color: #ffffff;
+    padding-top: 20px;
+    letter-spacing: 3px;
+
+}
+
+.copyright { text-align: center;
+    background-color: #252525;
+    color: #ffffff;
+    padding-bottom: 20px;
+    letter-spacing: 3px;
+
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -180,8 +213,6 @@ main {
         margin-top: 77px;
     }
 
-    .section_2_reviews {
-        grid-template-columns: 2fr 2fr;}
 
     
 }
