@@ -120,22 +120,27 @@ main {
 .section_2_reviews {
     background-color: #ffffff;
     color: #252525;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.reviews {
+/* .reviews {
     text-align: center;
-}
+} */
 
 /* Footer */
-.social-networks {
+
+
+.social-networks, .connect {
     text-align: center;
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: #252525;
+    color: #ffffff;
 }
 
 .social-networks i {
@@ -192,5 +197,10 @@ main {
 @media (max-width: 480px) {
     .section_2_reviews {
         grid-template-columns: 2fr;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
     } 
     
+
+}
