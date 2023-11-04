@@ -97,11 +97,11 @@ main {
 }
 
 /* Hero section NOTE THIS MAY CHANGE*/
-.hero {
+.cover {
     height: 600px;
     width:100%;
     background-color: #ffffff;
-    background: url("../images/physical-theatre.jpg") no-repeat center center/cover;
+    background: url("../images/bells.jpg") no-repeat center center/cover;
 
 
 }
@@ -114,21 +114,29 @@ main {
 }
 
 /* Section 1 */
-.about_us {
-    background-color: #ffffff;
-    color:#252525;
-    text-align: center;
-    padding-top: 8px;
-    letter-spacing: 3px;
-    font-size: 2rem;
-
+.section_1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px 0;
+    
 }
 
-.welcome {
-   /* font-size: 2rem; */
-   text-align: center;
-    
+.about_us {
+    text-align: center;
+    display: block;
+    margin: 8px;
+    line-height: 30px;
+}
 
+.headings {
+    border-bottom: 2px solid #252525;
+    width: 100%;
+    display: block;
+}
+
+.information {
+    padding: 15px;
 }
 
 
