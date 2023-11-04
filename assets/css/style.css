@@ -48,6 +48,13 @@ h1 {
     color:#252525;
 }
 
+h2 {font-family: 'Roboto', sans-serif; 
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color:#252525;
+
+}
+
 .menu {
     font:110%;
     letter-spacing: 4px;
