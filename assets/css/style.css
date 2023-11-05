@@ -70,6 +70,11 @@ h1 {
     transition: 0.2s;
 }
 
+
+.color-change-grow:hover {
+    font-size: 130%;
+}
+
 h2 {font-family: 'Roboto', sans-serif; 
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -226,6 +231,10 @@ main {
     font-family: 'Roboto', sans-serif; 
     cursor: pointer;
 
+}
+
+.cta-button:hover {
+    background-color: #333; /* Darker background on hover */
 }
 
 
