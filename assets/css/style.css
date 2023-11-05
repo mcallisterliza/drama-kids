@@ -279,6 +279,10 @@ main {
         margin-right: auto;
     }
 
+    .drama_photos {
+        column-count: 2;
+    }
+
    /* FOOTER MEDIA QUERY NEEDED TO ADJUST CONTENT PUSHED TO LEFT ON IPAD */
     
 
@@ -305,6 +309,9 @@ main {
         align-items: center;
         justify-content: flex-start;
     } 
-    
+    .drama_photos {
+        column-count: 1;
+    }
+
 
 }
