@@ -100,7 +100,7 @@ main {
 
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 40px;
+    margin-top: 40px auto;
 }
 
 /* Hero section NOTE THIS MAY CHANGE*/
@@ -177,7 +177,7 @@ main {
     
 }
 
-/* Call to action button */
+/* Call to action button MAY NEED ADJUSTING*/
 
 .center {
     text-align: center;
@@ -198,8 +198,6 @@ main {
     cursor: pointer;
 
 }
-
-
 
 
 /* Footer */
@@ -266,6 +264,11 @@ main {
     main {
         /*Push main content down to accomodate larger header */
         margin-top: 77px;
+        margin-right: auto;
+    }
+
+    footer {
+        margin-right: 0;
     }
 
 
