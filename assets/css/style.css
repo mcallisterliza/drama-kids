@@ -261,6 +261,8 @@ main {
     padding: 5%;
     color: #ffffff;
     
+
+    
 }
 
 .connect { 
@@ -269,6 +271,7 @@ main {
     color: #ffffff;
     padding-top: 20px;
     letter-spacing: 3px;
+   
 
 }
 
@@ -350,6 +353,12 @@ main {
             column-count: 3;
             column-gap: 0;
         }
+
+        .section_2_reviews {
+            flex-direction: row;
+            align-items: center;
+            justify-content: flex-start;
+        } 
 
 /* small devices */
 @media (max-width: 480px) {
