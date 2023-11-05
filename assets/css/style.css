@@ -237,6 +237,17 @@ main {
 
 }
 
+/* Gallery Page */
+.drama_photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+.drama_photos {
+    line-height: 0;
+}
+
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
