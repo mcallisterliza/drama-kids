@@ -54,7 +54,7 @@ h1 {
     transition: 0.2s;
 }
 .color-change2:hover {
-    color:yellow;
+    color:rgb(255, 234, 0);
     transition: 0.2s;
 }
 .color-change3:hover {
