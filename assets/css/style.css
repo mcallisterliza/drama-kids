@@ -100,7 +100,7 @@ main {
 
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 40px auto;
+    margin-top: 40px;
 }
 
 /* Hero section NOTE THIS MAY CHANGE*/
@@ -291,6 +291,10 @@ main {
             border-bottom: 1px solid #3a3a3a;
         }
     
+        }
+
+        .drama_photos {
+            column-count: 3;
         }
 
 /* small devices */
