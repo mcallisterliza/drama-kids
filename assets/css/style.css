@@ -71,6 +71,7 @@ h1 {
 }
 
 
+/* To make exclamation mark grow when hovered on */
 .color-change-grow:hover {
     font-size: 130%;
 }
@@ -320,6 +321,7 @@ main {
 
     .drama_photos {
         column-count: 2;
+        column-gap: 0;
     }
 
    /* FOOTER MEDIA QUERY NEEDED TO ADJUST CONTENT PUSHED TO LEFT ON IPAD */
@@ -338,6 +340,7 @@ main {
 
         .drama_photos {
             column-count: 3;
+            column-gap: 0;
         }
 
 /* small devices */
@@ -350,6 +353,7 @@ main {
     } 
     .drama_photos {
         column-count: 1;
+        column-gap: 0;
     }
 
 
