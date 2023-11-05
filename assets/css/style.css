@@ -48,6 +48,35 @@ h1 {
     color:#252525;
 }
 
+/* Color change styles for h1 element */
+.color-change1:hover {
+    color:red;
+    transition: 0.2s;
+}
+.color-change2:hover {
+    color:yellow;
+    transition: 0.2s;
+}
+.color-change3:hover {
+    color:green;
+    transition: 0.2s;
+}
+.color-change4:hover {
+    color:blue;
+    transition: 0.2s;
+}
+.color-change5:hover {
+    color:violet;
+    transition: 0.2s;
+}
+
+h2 {font-family: 'Roboto', sans-serif; 
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color:#252525;
+
+}
+
 h2 {font-family: 'Roboto', sans-serif; 
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -246,6 +275,7 @@ main {
 .drama_photos {
     line-height: 0;
 }
+
 
 
 /* Media query: tablets and larger (768px and up) */
