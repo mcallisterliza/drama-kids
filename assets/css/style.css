@@ -354,7 +354,7 @@ main {
 
 /*---MEDIA QUERIES---*/
 /* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
+@media screen and (max-width: 992px) {
     .menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
@@ -404,7 +404,6 @@ main {
     main {
         /*Push main content down to accomodate larger header */
         margin-top: 77px;
-        margin-right: auto;
     }
 
     .drama_photos {
