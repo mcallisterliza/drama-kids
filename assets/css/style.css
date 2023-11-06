@@ -22,6 +22,15 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+/* Styles for h2 elements */
+
+h2 {font-family: 'Roboto', sans-serif; 
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color:#252525;
+
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -48,7 +57,7 @@ h1 {
     color:#252525;
 }
 
-/* Color change styles for h1 element */
+/* Color change styles for h1 element when cursor hovers over 'Drama Kids!' text */
 .color-change1:hover {
     color:red;
     transition: 0.2s;
@@ -71,23 +80,9 @@ h1 {
 }
 
 
-/* To make exclamation mark grow when hovered on */
+/* To make exclamation mark in h1 grow when hovered on */
 .color-change-grow:hover {
     font-size: 130%;
-}
-
-h2 {font-family: 'Roboto', sans-serif; 
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color:#252525;
-
-}
-
-h2 {font-family: 'Roboto', sans-serif; 
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color:#252525;
-
 }
 
 .menu {
@@ -100,6 +95,7 @@ h2 {font-family: 'Roboto', sans-serif;
     margin-bottom: 1em;
 }
 
+/* To ensure current menu item is underlined when user is on this page */
 .active{
     border-bottom: 1px solid #3a3a3a;
 }
@@ -130,6 +126,7 @@ nav{
 .nav-toggle-label {
     font-size: 2rem;
 }
+
 /* Main content */
 main {
 
@@ -138,7 +135,7 @@ main {
     margin-top: 40px;
 }
 
-/* Hero section NOTE THIS MAY CHANGE*/
+/* Cover photo section */
 .cover {
     height: 600px;
     width:100%;
@@ -235,7 +232,7 @@ main {
 }
 
 .cta-button:hover {
-    background-color: #333; /* Darker background on hover */
+    background-color: #333333; /* Darker background on hover */
 }
 
 .gallery-button {
@@ -244,8 +241,6 @@ main {
 
 
 /* Footer */
-
-
 .social-networks {
     text-align: center;
     padding: 20px 0;
@@ -259,11 +254,9 @@ main {
 .social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #ffffff;
-    
-
-    
+    color: #ffffff; 
 }
+
 
 .connect { 
     text-align: center;
@@ -271,8 +264,6 @@ main {
     color: #ffffff;
     padding-top: 20px;
     letter-spacing: 3px;
-   
-
 }
 
 .copyright { text-align: center;
@@ -280,7 +271,6 @@ main {
     color: #ffffff;
     padding-bottom: 20px;
     letter-spacing: 3px;
-
 }
 
 /* Gallery Page */
@@ -293,8 +283,7 @@ main {
     line-height: 0;
 }
 
-
-
+/*---MEDIA QUERIES---*/
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -337,9 +326,7 @@ main {
         align-items: center;
         justify-content: flex-start;
     } 
-/* FOOTER MEDIA QUERY NEEDED TO ADJUST CONTENT PUSHED TO LEFT ON IPAD */
-
-    
+    /* FOOTER MEDIA QUERY NEEDED TO ADJUST CONTENT PUSHED TO LEFT ON IPAD */ 
 }
 /* Large devices (laptops and desktops, 992px and up) */
     @media screen and (min-width: 992px) {
