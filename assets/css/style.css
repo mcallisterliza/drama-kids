@@ -160,6 +160,9 @@ main {
     border-bottom: 2px solid #252525;
     width: 100%;
     display: block;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    font-size: 200%;
 }
 
 .information {
