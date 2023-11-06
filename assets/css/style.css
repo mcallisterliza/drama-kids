@@ -136,6 +136,7 @@ main {
     width: 100%;
     background-color: #ffffff;
     background: url("../images/bells.jpg") no-repeat center center/cover;
+    box-shadow: 0 2px 2px #3a3a3a;
 
 
 }
