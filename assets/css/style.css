@@ -86,7 +86,7 @@ h1 {
 }
 
 .menu {
-    font:110%;
+    font-size:110%;
     letter-spacing: 4px;
     list-style: none;
 }
