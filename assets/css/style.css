@@ -269,6 +269,10 @@ main {
 }
 
 /* Gallery Page */
+
+.hidden-h2 {
+    display: none;
+}
 .drama_photos img {
     width: 100%;
     line-height: 1em;
