@@ -244,8 +244,8 @@ main {
 
 
 /* Footer */
-social-media-icon i:hover {
-    background-color: #D2F02A
+.social-media-icon i:hover {
+    background-color: #D2F02A !important;
 }
 
 .social-networks {
