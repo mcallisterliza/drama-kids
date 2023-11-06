@@ -41,7 +41,44 @@
     </header>
 
     <!--Main content-->
-    <main>Main Content</main>
+    <main class="contact-us-form">
+        <section class="form">
+            <h1>Contact Us</h1>
+            <form action="submit.php" method="post">
+            <!-- First Name -->
+            <label class="label"="first_name">First Name:</label>
+            <input class="input" type="text" id="first_name" name="first_name" required>
+            <br>
+
+            <!-- Last Name -->
+            <label class="label" for="last_name">Last Name:</label>
+            <input class="input" type="text" id="last_name" name="last_name" required>
+            <br>
+
+            <!-- Telephone Number -->
+            <label class="label" for="telephone">Telephone Number:</label>
+            <input class="input" type="tel" id="telephone" name="telephone" required>
+            <br>
+
+            <!-- Email Address -->
+            <label class="label" for="email">Email Address:</label>
+            <input class="input" type="email" id="email" name="email" required>
+            <br>
+
+            <!-- Radio Buttons -->
+            <b><b>Choose one of the following:</b></label>
+            <br>
+            <input class="radio" type="radio" id="mailing_list" name="contact_option" value="mailing_list">
+            <label for="mailing_list">Join our mailing list and claim a free taster session</label>
+            <br>
+            <input class="radio" type="radio" id="call_back" name="contact_option" value="call_back">
+            <b for="call_back">Request a call back for further information</label>
+            <br>
+
+        <!-- Submit Button -->
+            <input class="form-button" type="submit" value="Submit">
+        </section>
+    </main>
 
     <!--Footer-->
     <footer>
