@@ -22,14 +22,6 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-/* Styles for h2 elements */
-
-h2 {font-family: 'Roboto', sans-serif; 
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color:#252525;
-
-}
 
 /* Header */
 header {
@@ -50,7 +42,8 @@ header a {
     color: inherit;
 }
 
-h1 {
+
+h1, h2, h3 {
     font-family: 'Roboto', sans-serif; 
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -78,6 +71,8 @@ h1 {
     color:violet;
     transition: 0.2s;
 }
+/* Styles for h2 elements */
+
 
 
 /* To make exclamation mark in h1 grow when hovered on */
@@ -302,7 +297,7 @@ main {
     padding: 20px;
     padding-top: 120px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(32, 32, 32, 0.3);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 .form h1 {
     text-align: center;
