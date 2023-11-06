@@ -6,9 +6,9 @@
 *,
 *::before,
 *::after {
-box-sizing: border-box;
-margin: 0;
-padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -27,7 +27,7 @@ body {
 header {
     background-color: #ffffff;
     padding: 0 1rem;
-    position:fixed;
+    position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
@@ -42,38 +42,41 @@ header a {
     color: inherit;
 }
 
-
-h1, h2, h3 {
-    font-family: 'Roboto', sans-serif; 
+/* Styles for h1, h2, h3 elements */
+h1,
+h2,
+h3 {
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color:#252525;
+    color: #252525;
 }
 
 /* Color change styles for h1 element when cursor hovers over 'Drama Kids!' text */
 .color-change1:hover {
-    color:red;
+    color: red;
     transition: 0.2s;
 }
+
 .color-change2:hover {
-    color:rgb(255, 234, 0);
+    color: rgb(255, 234, 0);
     transition: 0.2s;
 }
+
 .color-change3:hover {
-    color:green;
+    color: green;
     transition: 0.2s;
 }
+
 .color-change4:hover {
-    color:blue;
+    color: blue;
     transition: 0.2s;
 }
+
 .color-change5:hover {
-    color:violet;
+    color: violet;
     transition: 0.2s;
 }
-/* Styles for h2 elements */
-
-
 
 /* To make exclamation mark in h1 grow when hovered on */
 .color-change-grow:hover {
@@ -81,32 +84,32 @@ h1, h2, h3 {
 }
 
 .menu {
-    font-size:110%;
+    font-size: 110%;
     letter-spacing: 4px;
     list-style: none;
 }
 
-.menu > li {
+.menu>li {
     margin-bottom: 1em;
 }
 
 /* To ensure current menu item is underlined when user is on this page */
-.active{
+.active {
     border-bottom: 1px solid #3a3a3a;
 }
 
 
 
 /* Navbar styles with dropdown toggle */
-nav{
+nav {
     position: absolute;
     /* background-color: #ffffff; */
     width: 100%;
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
-    display:none;
-    top:100%;
+    display: none;
+    top: 100%;
 }
 
 /*Nav toggle */
@@ -114,6 +117,7 @@ nav{
     background-color: #ffffff;
     display: block;
 }
+
 #nav-toggle {
     display: none;
 }
@@ -133,7 +137,7 @@ main {
 /* Cover photo section */
 .cover {
     height: 600px;
-    width:100%;
+    width: 100%;
     background-color: #ffffff;
     background: url("../images/bells.jpg") no-repeat center center/cover;
 
@@ -146,7 +150,7 @@ main {
     max-width: 1200px;
     margin: 0 auto;
     padding: 15px 0;
-    
+
 }
 
 .about_us {
@@ -187,7 +191,8 @@ main {
     width: 100%;
     display: flex;
     justify-content: center;
-    
+    flex-direction: row;
+
 }
 
 
@@ -201,7 +206,7 @@ main {
     height: 200px;
     border-radius: 50%;
     border: 3px solid #252525;
-    
+
 }
 
 /* Call to action button - MAY NEED ADJUSTING*/
@@ -215,19 +220,20 @@ main {
     display: inline-block;
     padding: 20px 40px;
     background-color: #252525;
-    color: #ffffff; 
+    color: #ffffff;
     text-decoration: none;
     border: none;
     border-radius: 5px;
-    font-size: 24px; 
-    text-transform: uppercase; 
-    font-family: 'Roboto', sans-serif; 
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
     cursor: pointer;
 
 }
 
 .cta-button:hover {
-    background-color: #333333; /* Lighter background on hover */
+    background-color: #333333;
+    /* Lighter background on hover */
 }
 
 .gallery-button {
@@ -249,19 +255,23 @@ main {
 .social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #ffffff; 
+    color: #ffffff;
 }
 
 
-.connect { 
+.connect {
     text-align: center;
     background-color: #252525;
     color: #ffffff;
     padding-top: 20px;
     letter-spacing: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+
 }
 
-.copyright { text-align: center;
+.copyright {
+    text-align: center;
     background-color: #252525;
     color: #ffffff;
     padding-bottom: 20px;
@@ -273,6 +283,7 @@ main {
 .hidden-h2 {
     display: none;
 }
+
 .drama_photos img {
     width: 100%;
     line-height: 1em;
@@ -284,7 +295,7 @@ main {
 
 /* Contact us page with form */
 .contact-us-form {
-    background-image: url("../images/drama-lesson.jpg"); 
+    background-image: url("../images/drama-lesson.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -295,7 +306,7 @@ main {
 }
 
 .form {
-    background-color: rgba(255, 255, 255, 0.8); 
+    background-color: rgba(255, 255, 255, 0.8);
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
@@ -303,6 +314,7 @@ main {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
+
 .form h1 {
     text-align: center;
 }
@@ -341,8 +353,27 @@ main {
 
 
 /*---MEDIA QUERIES---*/
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    .menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+
+    .drama_photos {
+        column-count: 3;
+        column-gap: 0;
+    }
+
+    .section_2_reviews {
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+    }
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -350,15 +381,19 @@ main {
         box-shadow: none;
         width: fit-content;
     }
+
     .menu {
-        display:flex;
+        display: flex;
     }
-    .menu > li {
+
+    .menu>li {
         padding-left: 1rem;
     }
+
     .nav-toggle-label {
-        display:none;
+        display: none;
     }
+
     .logo {
         font-size: 280%;
         line-height: 75px;
@@ -377,39 +412,23 @@ main {
         column-gap: 0;
     }
 
-    .section_2_reviews {
-        grid-template-columns: 2fr;
+    /* .section_2_reviews {
         flex-direction: column;
         align-items: center;
         justify-content: flex-start;
-    } 
-    /* FOOTER MEDIA QUERY NEEDED TO ADJUST CONTENT PUSHED TO LEFT ON IPAD */ 
+    }  */
+    /* FOOTER MEDIA QUERY NEEDED TO ADJUST CONTENT PUSHED TO LEFT ON IPAD */
 }
-/* Large devices (laptops and desktops, 992px and up) */
-    @media screen and (min-width: 992px) {
-        .menu a:hover {
-            border-bottom: 1px solid #3a3a3a;
-        }
 
-        .drama_photos {
-            column-count: 3;
-            column-gap: 0;
-        }
-
-        .section_2_reviews {
-            flex-direction: row;
-            align-items: center;
-            justify-content: flex-start;
-        } 
-    }
 /* small devices */
 @media (max-width: 480px) {
-    .section_2_reviews {
+
+    /* .section_2_reviews {
         grid-template-columns: 2fr;
         flex-direction: column;
         align-items: center;
         justify-content: flex-start;
-    } 
+    }  */
     .drama_photos {
         column-count: 1;
         column-gap: 0;
