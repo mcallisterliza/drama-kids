@@ -163,7 +163,7 @@ main {
     display: block;
     margin-bottom: 40px;
     margin-top: 10px;
-    font-size: 150%;
+    font-size: 200%;
 }
 
 .information {
@@ -244,6 +244,10 @@ main {
 
 
 /* Footer */
+social-media-icon:hover {
+    background-color: yellow
+}
+
 .social-networks {
     text-align: center;
     padding: 20px 0;
