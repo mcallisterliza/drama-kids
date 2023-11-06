@@ -352,6 +352,7 @@ main {
 
 
 /*---MEDIA QUERIES---*/
+
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (max-width: 992px) {
     .menu a:hover {
@@ -406,16 +407,9 @@ main {
     }
 
     .drama_photos {
-        column-count: 2;
+        column-count: 3;
         column-gap: 0;
     }
-
-    /* .section_2_reviews {
-        flex-direction: column;
-        align-items: center;
-        justify-content: flex-start;
-    }  */
-    /* FOOTER MEDIA QUERY NEEDED TO ADJUST CONTENT PUSHED TO LEFT ON IPAD */
 }
 
 /* small devices */
