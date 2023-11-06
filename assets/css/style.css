@@ -232,7 +232,7 @@ main {
 }
 
 .cta-button:hover {
-    background-color: #333333; /* Darker background on hover */
+    background-color: #333333; /* Lighter background on hover */
 }
 
 .gallery-button {
@@ -333,8 +333,6 @@ main {
         .menu a:hover {
             border-bottom: 1px solid #3a3a3a;
         }
-    
-        }
 
         .drama_photos {
             column-count: 3;
@@ -346,7 +344,7 @@ main {
             align-items: center;
             justify-content: flex-start;
         } 
-
+    }
 /* small devices */
 @media (max-width: 480px) {
     .section_2_reviews {
