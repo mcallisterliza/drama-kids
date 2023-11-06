@@ -303,7 +303,7 @@ main {
 }
 
 .photo:hover {
-    border: 3px solid #ffffff;
+    border: 3px solid lightgray;
     transition: 0.5s;
 }
 
