@@ -298,6 +298,16 @@ main {
     line-height: 0;
 }
 
+.photo {
+    border: 3px solid #252525;
+}
+
+.photo:hover {
+    border: 3px solid #ffffff;
+    transition: 0.5s;
+}
+
+
 /* Contact us page with form */
 .contact-us-form {
     background-image: url("../images/drama-lesson.jpg");
