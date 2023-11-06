@@ -254,7 +254,6 @@ main {
     color: #ffffff;
 }
 
-
 .connect {
     text-align: center;
     background-color: #252525;
@@ -347,12 +346,16 @@ main {
     margin-top: 20px;
 }
 
+.form-button-hover:hover {
+    background-color: #5e5e5e;
+}
+
 
 /*---MEDIA QUERIES---*/
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (max-width: 992px) {
     .menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+        border-bottom: 1px solid #a39b9b;
     }
 
     .drama_photos {
