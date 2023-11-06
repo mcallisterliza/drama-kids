@@ -78,10 +78,6 @@ h3 {
     transition: 0.2s;
 }
 
-/* To make exclamation mark in h1 grow when hovered on */
-.color-change-grow:hover {
-    font-size: 130%;
-}
 
 .menu {
     font-size: 110%;
@@ -308,9 +304,9 @@ main {
 .form {
     background-color: rgba(255, 255, 255, 0.8);
     max-width: 500px;
-    margin: 0 auto;
+    margin: 6em auto;
     padding: 20px;
-    padding-top: 120px;
+    padding-top: 60px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
