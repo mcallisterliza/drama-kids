@@ -224,6 +224,8 @@ main {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     cursor: pointer;
+    margin-top: 80px;
+    margin-bottom: 80px;
 
 }
 
