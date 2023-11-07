@@ -330,7 +330,7 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
-.form h1 {
+.form h2 {
     text-align: center;
 }
 
@@ -370,6 +370,27 @@ main {
     background-color: #5e5e5e;
 }
 
+/* Response Page */
+.response {
+    background-color: rgba(255, 255, 255, 0.8);
+    max-width: 500px;
+    margin: 10em auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.response h2 {
+    font-size: 200%;
+    text-align: center;
+    padding: 40px
+}
+
+.response p {
+    font-size: 200%;
+    text-align: center;
+    padding: 40px
+}
 
 /*---MEDIA QUERIES---*/
 
