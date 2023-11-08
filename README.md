@@ -164,7 +164,20 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   
 <img width="1113" alt="contact_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/8173b639-3dd9-4a7f-bd85-52e9914799ca">
 
+---
+
+### Response page
+
+* The user is directed to the response page when the user clicks the submit button on the form on the contact page (when all required fields are filled in).
   
+* The Response page contains a brief thank you message to the user and informs the user that the company will contact the user withing 24 to 72 hours.
+  
+* After ten seconds on the contact page the page will automatically direct the user to the home page.
+  
+<img width="1113" alt="response_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/1b562160-9d65-4c32-858c-7f8c93bf1faf">
+
+---
+
 
 
 
