@@ -276,7 +276,7 @@ In your IDE Terminal, type the following command to clone my repository:
 
 - [Code Institute](https://codeinstitute.net/) the fantastic Slack community members and friends I have made during this project for their support, chats and help.
 - [Iuliias Konovalova](https://github.com/IuliiaKonovalova) my mentor who throughout who has given me great advice, constructive feedback and an overall sense of confidence and calmness whilst I have embarked on new learning.
-- [Kevin Powell](https://www.youtube.com/user/KepowOb) for his amazing CSS tutorials.
+- [Kevin Powell](https://www.youtube.com/user/KepowOb) for his accessible and informative online tutorials.
 
 #### Media
 
