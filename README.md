@@ -191,6 +191,28 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ---
 
+## Design
+
+### Color Scheme
+
+* #FFFFFF White was used as the main colour of the website to give it a simplistic and clean look. White conveys a sense of freedom and it gives the user the visual breathing space to absorb the information presented on the screen.
+  
+* #252525 Very dark gray was used for text, separation of content and the footer. This worked well to contrast with the white background. It created a website that was accessible to read.
+  
+* rgba(228, 121, 33) Deep shade of orange was used for the logo, cover text overlay and for all the responsive buttons and social media icons when hovered over and the background on the images in gallery when hovered over. Orange is a warm and welcoming color for the user. Orange gives a sense of warmth and compassion which will create a sense of a soothing and safe environment whilst on the page reasuring parents that this is a safe drama club to send their child to. Psychologically, in business applications orange gives the impression of affordability which will also attract the user as the visitors of this website will already undoubtedly be budgeting their finances for different recreational activities for their child.
+
+
+
+### Typography
+
+<img width="227" alt="lato" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/7fcb2585-5a72-41af-89b0-548eb8db0393">
+
+* Lato Google Font was used as the main font of the website as it ensured that the website was readable and accessible.
+
+<img width="225" alt="roboto" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/0ecaf28a-8b2c-4aa7-826d-de7097ad236a">
+
+
+- Roboto Google Font was used for the main logo and headings to attract the user's attention whilst also being accessible to read.
 
 
 
