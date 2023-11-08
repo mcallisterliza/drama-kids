@@ -53,6 +53,10 @@ h3 {
 }
 
 /* Color change styles for h1 element when cursor hovers over 'Drama Kids!' text */
+.kid {
+    color: rgba(228, 121, 33);
+}
+
 .color-change1:hover {
     color: red;
     transition: 0.2s;
@@ -330,7 +334,7 @@ main {
 
 /* Contact us page with form */
 .contact-us-form {
-    background-image: url("../images/drama-lesson.webp");
+    background-image: url("../images/drama_lesson.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
