@@ -226,6 +226,34 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 - Roboto Google Font was used for the main logo and headings to attract the user's attention whilst also being accessible to read.
 
 
+### Wireframes
+
+---
+
+## Testing
+
+Please refer to [TO BE ADDED] for all testing documentation.
+
+---
+
+## Deployment
+
+### Deployment to GitHub Pages
+
+- This site was deployed to GitHub pages. The steps I took to deploy this project:
+- In the [GitHub Repository](https://github.com/mcallisterliza/drama-kids) go to 'Settings Tab'. From the source section I selected the 'Main Branch' and then clicked save. The page then refreshes and indicates the deployment was successful. Access the live link [here](https://github.com/mcallisterliza/drama-kids)
+  
+
+### Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+- git clone "https://github.com/mcallisterliza/drama-kids.git"
+
+---
+
+
 
 
    
