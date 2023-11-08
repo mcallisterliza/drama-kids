@@ -1,4 +1,5 @@
-![Drama Kids! logo](assets/css/images/acting/jpg)
+![Drama Kids! logo]<img width="270" alt="drama_kids_logo" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/c6d8c93f-bd6e-4838-8bac-64607d611ed7">
+
 
 # Drama Kids!
 
