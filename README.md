@@ -72,6 +72,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
   <img width="1163" alt="drama_kids_homepage" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/82c9ed18-291d-4a7d-87ab-99e629be4ec2">
 
+---
 
 #### Hero Section
 
@@ -81,6 +82,8 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
   <img width="742" alt="hero_section" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/c4efe69e-8850-4e43-bf63-7b8b8e3f8257">
 
+---
+
 #### 'About Us' and 'Times & Location' sections:
 
 * The 'About Us' section informs the user what the company is about and explores the company's ehtos and passion for engaging children in performing arts whilst in a safe environment.
@@ -88,6 +91,8 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * The Times & Location' section clearly defines days and times of the sessions along with the full address of Drama Kids!
 
   <img width="1000" alt="aboutus_timeslocation" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/04aaa32c-2b92-474e-b241-ef62ad331e34">
+
+---
 
 #### 'Our Top Reviews' section:
 
@@ -101,6 +106,8 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
   <img width="825" alt="our_top_reviews" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/98cd90cc-444b-4623-b53b-4531ab3d5fa0">
 
+---
+
 #### Call to action section:
 
 * Call to action button has a clear message for users to contact the company and also offers the user the opportunity to benefit from a free taster session when filling in the contact form.
@@ -108,6 +115,8 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * When clicked the call to action button directs the user to the 'Contact Us' page where they are invited to fill out the form.
 
   <img width="836" alt="call_to_action_button" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/cd357777-d7d6-4d0a-bb4f-bf2d04ecc2ac">
+
+---
 
 
 
