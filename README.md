@@ -87,7 +87,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 #### 'About Us' and 'Times & Location' sections:
 
 * The 'About Us' section informs the user what the company is about and explores the company's ehtos and passion for engaging children in performing arts whilst in a safe environment.
-* 
+  
 * The Times & Location' section clearly defines days and times of the sessions along with the full address of Drama Kids!
 
   <img width="1000" alt="aboutus_timeslocation" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/04aaa32c-2b92-474e-b241-ef62ad331e34">
@@ -114,7 +114,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   
 * When clicked the call to action button directs the user to the 'Contact Us' page where they are invited to fill out the form.
   
-* The call to action button is also responsive and changes color when hovered over.
+* The call to action button is also responsive and changes color shade when hovered over.
 
   <img width="836" alt="call_to_action_button" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/cd357777-d7d6-4d0a-bb4f-bf2d04ecc2ac">
 
@@ -129,6 +129,28 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   <img width="826" alt="footer" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/2c4f3767-4b89-4535-a78f-744906558fc2">
 
 ---
+
+### Gallery Page
+
+* The gallery page have the same nav bar as the homepage.
+
+* The gallery page has photos of the members of Drama Kids! participating in performing arts workshops.
+  
+* The images are responsive and the images adjust to the size of the users screen.
+  
+* Each image is also responsive when hovered over. The images' background changes color.
+  
+* At the bottom of the page there is another call to action button which is the same as the button on the home page and has the same responsiveness.
+  
+* The footer is also identical the footer on the home page with the same responsiveness.
+
+  <img width="1113" alt="gallery" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/eb6edfde-3431-42ab-affa-71f741170998">
+
+---
+
+
+
+    
 
 
 
