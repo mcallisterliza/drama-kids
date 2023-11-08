@@ -256,7 +256,15 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ---
 
+## Future improvements
 
+- I would like to improve the quality of my commit messages. I am aware at times that some of my commit messages may not be very clear and this is something I look forward to improving in my future projects.
+  
+- I would like to have put more content onto my gallery page such as interactive figurecaptions so when the user hovered over the images styled figurecaptions appeared and gave the user more information about the benefits of the activities that the children were particpating in. An example of this would be when the image of the children playing mime games was hovered over a styles figurecaption would appear as an overlay of the image may note: "Mime is a fun and creative form of imaginitive play which allows the participant to develop their communication skills without the use of speech".
+  
+- I would like to have put an interactive map on the 'Contact Us' page where the user could clearly see the location of Drama Kids! on the map and zoom in and out of the location to plan their journey to the sessions
+
+---
 
 
    
