@@ -80,8 +80,9 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * Displays address and workshop times.
 * Presents feedback from satified clients of the company.
 * Displays a call to action button which invites the user to fill in the contact form and directs the user to the 'Contact Us' page.
-  
-  <img width="324" alt="home_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/6e2cd870-ccd6-4852-a647-48db768e00be">
+
+  <img width="319" alt="home_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/1ec0f94a-b317-457e-b205-9087b91edb78">
+
 
 
 ---
