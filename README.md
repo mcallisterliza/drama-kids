@@ -237,6 +237,12 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 Please refer to [TO BE ADDED] for all testing documentation.
 
+### Validator Testing
+
+### Fixed Bugs
+
+### Unfixed Bugs
+
 ---
 
 ## Deployment
