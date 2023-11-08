@@ -266,6 +266,18 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ---
 
+## Credits
+
+#### Content
+
+#### Media
+
+#### Tools
+
+[Image Compressor](https://tinypng.com/)
+[Image Compressor](https://compressor.io/)
+
+## Acknowledgments
 
    
 
