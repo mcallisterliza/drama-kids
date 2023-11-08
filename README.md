@@ -148,6 +148,27 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ---
 
+### Contact page
+
+* The contact page has a form for the user to fill in.
+  
+* All text input fields are 'required' to fill out except for the telephone number field as a 'required' telephone number field can be offputting for users.
+  
+* The form also has checkboxes for the visitors to select their choices between:
+      - 'Join our mailing list and claim a free taster session'
+      - 'Request a call back for further information'
+
+* The submit button is responsive when the use hovers over it and changes color shade and directs the user to the response page.
+  
+* The contact page is responsive and adapts to different screen sizes.
+  
+<img width="1113" alt="contact_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/8173b639-3dd9-4a7f-bd85-52e9914799ca">
+
+  
+
+
+
+   
 
 
     
