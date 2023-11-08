@@ -70,8 +70,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * Presents feedback from satified clients of the company.
 * Displays a call to action button which invites the user to fill in the contact form and directs the user to the 'Contact Us' page.
 
-        ![drama_kids_homepage](https://github.com/mcallisterliza/drama-kids/assets/145555751/ac704411-cd2e-4861-b21e-945abfb58cc4)
-
+  <img width="1163" alt="drama_kids_homepage" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/82c9ed18-291d-4a7d-87ab-99e629be4ec2">
 
 
 #### Hero Section
