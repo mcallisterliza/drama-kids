@@ -61,6 +61,17 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
            <img width="376" alt="nav_bar_dropdown" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/33967ab0-7621-4030-97cf-5eb1ec436697">
 
+      **Rainbow surprise**
+
+      The h1 element/logo has a feature added to it which is not obvious to the user when they first view the page. If the user hovers the cursor over the h1/logo the letters d, r, a, m, a, k, i, d, s and ! change to different colours         respectively. This is a 'hidden gem' on the page for playfullness. It gives the page a sense of playfulness and positivity which is what a child's drama group should reflect.
+      
+      <img width="267" alt="h1blue" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/fbfd54ca-e415-4d47-8ba9-93bd7cbdf81b">
+
+      <img width="281" alt="h1green" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/242d0f39-9946-47a9-8acf-f3c2f207511b">
+
+      <img width="270" alt="h1red" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/ed82ffcd-1ec2-48c9-ac82-8ccc51f1a1b9">
+
+---
 
 ### Homepage
     
