@@ -40,7 +40,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
     - The nav bar also contains three links on the right hand side:
         * HOME - This leads the user to the Home page where they can navigate through the company's 'About Us' section, the address and opening times, reviews from clients and a footer with links to  the company's social media pages.
         * GALLERY - This leads the user to the gallery where the user can view images of different Drama Kids! members participating in performing arts workshops.
-        * CONTACT - This leads the user to the contact page where they can conact the company and request whether to join the mailing list or request a callback for further information.
+        * CONTACT US - This leads the user to the contact page where they can conact the company and request whether to join the mailing list or request a callback for further information.
     - The above links have animated hover effect.
       
     - The navigation is is clear and concise and is easy for the user to use:
@@ -70,8 +70,9 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * Presents feedback from satified clients of the company.
 * Displays a call to action button which invites the user to fill in the contact form and directs the user to the 'Contact Us' page.
 
-        
-![drama_kids_homepage](https://github.com/mcallisterliza/drama-kids/assets/145555751/46efb83b-52cb-4a81-8d9f-30a8780b0571)
+        ![drama_kids_homepage](https://github.com/mcallisterliza/drama-kids/assets/145555751/ac704411-cd2e-4861-b21e-945abfb58cc4)
+
+
 
 #### Hero Section
 
@@ -81,5 +82,38 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
   <img width="742" alt="hero_section" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/c4efe69e-8850-4e43-bf63-7b8b8e3f8257">
 
-    
+#### 'About Us' and 'Times & Location' sections:
+
+* The 'About Us' section informs the user what the company is about and explores the company's ehtos and passion for engaging children in performing arts whilst in a safe environment.
+* 
+* The Times & Location' section clearly defines days and times of the sessions along with the full address of Drama Kids!
+
+  <img width="1000" alt="aboutus_timeslocation" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/04aaa32c-2b92-474e-b241-ef62ad331e34">
+
+#### 'Our Top Reviews' section:
+
+* Reviews section has four reviews from people who were satisfied with the service their child experienced with the company.
+  
+* Each review has a image of the person who has left the review.
+  
+* Icons have been used to enclose the speech from each person.
+  
+* Each review has the name of the person leaving the review.
+
+  <img width="825" alt="our_top_reviews" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/98cd90cc-444b-4623-b53b-4531ab3d5fa0">
+
+#### Call to action section:
+
+* Call to action button has a clear message for users to contact the company and also offers the user the opportunity to benefit from a free taster session when filling in the contact form.
+  
+* When clicked the call to action button directs the user to the 'Contact Us' page where they are invited to fill out the form.
+
+  <img width="836" alt="call_to_action_button" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/cd357777-d7d6-4d0a-bb4f-bf2d04ecc2ac">
+
+
+
+
+
+
+
 
