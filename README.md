@@ -80,8 +80,9 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * Displays address and workshop times.
 * Presents feedback from satified clients of the company.
 * Displays a call to action button which invites the user to fill in the contact form and directs the user to the 'Contact Us' page.
+  
+  <img width="324" alt="home_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/6e2cd870-ccd6-4852-a647-48db768e00be">
 
-  <img width="1163" alt="drama_kids_homepage" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/82c9ed18-291d-4a7d-87ab-99e629be4ec2">
 
 ---
 
@@ -155,7 +156,8 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   
 * The footer is also identical the footer on the home page with the same responsiveness.
 
-  <img width="1113" alt="gallery" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/eb6edfde-3431-42ab-affa-71f741170998">
+  <img width="410" alt="gallery" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/0af3fb2b-aa3e-45c0-af1b-b2a61ccb9c57">
+
 
 ---
 
@@ -172,8 +174,9 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * The submit button is responsive when the use hovers over it and changes color shade and directs the user to the response page.
   
 * The contact page is responsive and adapts to different screen sizes.
-  
-<img width="1113" alt="contact_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/8173b639-3dd9-4a7f-bd85-52e9914799ca">
+
+  <img width="823" alt="contact_page" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/178bf3bc-e6fc-4844-9b9a-234a3fe53fd5">
+
 
 ---
 
