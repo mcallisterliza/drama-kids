@@ -13,17 +13,17 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 ---
 # **User Stories**
 
-### First Time Visitor Goals:
+#### First Time Visitor Goals:
 
 * As a newcomer to the site, my objective is to gain a comprehensive understanding of Drama Kids! and its purpose.
 * As a first-time visitor, I aim to navigate the website effortlessly, ensuring quick access to the content I need.
 * As a first-time visitor, I wish to read reviews of this children's club, evaluating their validity and trustworthiness.
 
 #### Returning Visitor Goals:
-* As someone revisiting the site, I seek to browse images of children's activities to gauge whether my child would enjoy joining.
+* As someone revisiting the site, I seek to browse images of children's activities to gage whether my child would enjoy joining.
 * As a returning visitor, my goal is to delve into the group's ethos to assess its suitability for my child.
 * As a returning visitor, I intend to locate the contact page for reaching out to the group and obtaining more information.
-* As a Returning visitor, I want to find community links, so that I can learn more about the company and get involved on their social media groups and chats.
+* As a returning visitor, I want to find community links, so that I can learn more about the company and get involved on their social media groups and chats.
 
 #### Frequent Visitor Goals:
 * As a frequent visitor, I want to check whether there are any new reviews so I can see what like minded people are saying about the company.
