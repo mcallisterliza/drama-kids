@@ -269,7 +269,7 @@ main {
 
 /* Footer */
 .social-media-icon i:hover {
-    color: #c9c2c2 !important;
+    color: rgba(228, 121, 33) !important;
 }
 
 .social-networks {
@@ -330,6 +330,7 @@ main {
     border: 3px solid lightgray;
     transition: 0.5s;
 }
+
 
 
 /* Contact us page with form */
