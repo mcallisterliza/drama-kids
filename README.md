@@ -274,6 +274,13 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ## Credits
 
+- [Font](https://fonts.google.com/) Fonts taken from Google Fonts.
+
+- [Icons](https://fontawesome.com/icons) Icons taken from Font Awesome.
+
+- [Images](https://www.pexels.com/) Images taken from Pexels.
+
+
 
 #### Media
 
