@@ -178,6 +178,20 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ---
 
+## Technologies Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the website.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add style to the HTML to give the website its style.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrnage items on the webpage.
+- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make "gallery" and "contact" pages responsive.
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used to write and edit the code.
+- [Git](https://git-scm.com/) was used for the version control of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
+
+---
+
+
 
 
 
