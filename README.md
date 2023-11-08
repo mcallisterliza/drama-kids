@@ -113,10 +113,23 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 * Call to action button has a clear message for users to contact the company and also offers the user the opportunity to benefit from a free taster session when filling in the contact form.
   
 * When clicked the call to action button directs the user to the 'Contact Us' page where they are invited to fill out the form.
+  
+* The call to action button is also responsive and changes color when hovered over.
 
   <img width="836" alt="call_to_action_button" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/cd357777-d7d6-4d0a-bb4f-bf2d04ecc2ac">
 
 ---
+
+#### Footer
+
+* Footer contains icons of the social media pages used by the company.
+
+* The icons react by changing color when hovered over and when clicked the user is directed to the social media page in a new winow.
+
+  <img width="826" alt="footer" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/2c4f3767-4b89-4535-a78f-744906558fc2">
+
+---
+
 
 
 
