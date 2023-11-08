@@ -274,8 +274,9 @@ In your IDE Terminal, type the following command to clone my repository:
 
 #### Tools
 
-[Image Compressor](https://tinypng.com/)
-[Image Compressor](https://compressor.io/)
+[Tiny png - Image Compressor](https://tinypng.com/) was used to compress images.
+
+[Compressor - Image Compressor](https://compressor.io/) was also used to compress images.
 
 ## Acknowledgments
 
