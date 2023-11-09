@@ -127,7 +127,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   
 * When clicked the call to action button directs the user to the 'Contact Us' page where they are invited to fill out the form.
   
-* The call to action button is also responsive and changes color shade when hovered over.
+* The call to action button is also responsive and changes color to orange.
 
   <img width="836" alt="call_to_action_button" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/cd357777-d7d6-4d0a-bb4f-bf2d04ecc2ac">
 
@@ -137,7 +137,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 * Footer contains icons of the social media pages used by the company.
 
-* The icons react by changing color when hovered over and when clicked the user is directed to the social media page in a new winow.
+* The icons react by changing color to orange when hovered over and when clicked the user is directed to the social media page in a new winow.
 
   <img width="826" alt="footer" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/2c4f3767-4b89-4535-a78f-744906558fc2">
 
@@ -172,7 +172,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
       - 'Join our mailing list and claim a free taster session'
       - 'Request a call back for further information'
 
-* The submit button is responsive when the use hovers over it and changes color shade and directs the user to the response page.
+* The submit button is responsive when the use hovers over it and changes color to orange and directs the user to the response page.
   
 * The contact page is responsive and adapts to different screen sizes.
 
