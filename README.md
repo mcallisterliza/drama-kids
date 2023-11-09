@@ -279,7 +279,27 @@ In your IDE Terminal, type the following command to clone my repository:
 
 - [Icons](https://fontawesome.com/icons) Icons taken from Font Awesome.
 
-- [Images](https://www.pexels.com/) Images taken from Pexels.
+### Images
+All images were taken from [Pexels](https://www.pexels.com/)
+- [Hero image](https://www.pexels.com/photo/children-with-her-students-holding-different-color-bells-8535230/)
+- [1st review image](https://www.pexels.com/photo/woman-in-collared-shirt-774909/)
+- [2nd review image](https://www.pexels.com/photo/man-wearing-eyeglasses-769772/)
+- [3rd review image](https://www.pexels.com/photo/man-smiling-behind-wall-220453/)
+- [4th review image](https://www.pexels.com/photo/photography-of-a-guy-wearing-green-shirt-1222271/)
+- [1st gallery image](https://www.pexels.com/photo/kids-pointing-their-fingers-on-a-placard-8087866/)
+- [2nd gallery image](https://www.pexels.com/photo/group-of-children-sitting-on-white-chair-8422141/)
+- [3rd gallery image](https://www.pexels.com/photo/people-sitting-on-chairs-inside-the-room-8364026/)
+- [4th gallery image](https://www.pexels.com/photo/a-teacher-speaking-surrounded-by-his-students-8364065/)
+- [5th gallery image](https://www.pexels.com/photo/group-of-children-sitting-on-white-chairs-8422135/)
+- [6th gallery image](https://www.pexels.com/photo/happy-active-diverse-girl-jumping-and-having-fun-5063072/)
+- [7th gallery image](https://www.pexels.com/photo/group-of-children-sitting-on-classroom-chairs-8422133/)
+- [8th gallery image](https://www.pexels.com/photo/a-girl-sitting-lonely-by-herself-in-the-classroom-6936340/)
+- [9th gallery image](https://www.pexels.com/photo/group-of-kids-playing-together-8033865/)
+- [10th gallery image](https://www.pexels.com/photo/children-playing-with-a-colorful-parachute-8384294/)
+- [11th gallery image](https://www.pexels.com/photo/active-children-doing-balancing-exercises-8613312/)
+- [12th gallery image](https://www.pexels.com/photo/group-of-children-playing-on-green-grass-8613319/)
+- [13th gallery image](https://www.pexels.com/photo/preschool-children-doing-hand-exercise-with-teachers-8613366/)
+- [Contact & response page background image](https://www.pexels.com/photo/group-of-children-sitting-on-white-chairs-8422135/)
 
 
 
