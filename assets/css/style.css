@@ -256,6 +256,10 @@ main {
 
 /* Footer */
 /* Changes social media icons to orange when hovered over */
+.h2-footer {
+    display: none
+}
+
 .social-media-icon i:hover {
     color: rgba(228, 121, 33) !important;
 }
