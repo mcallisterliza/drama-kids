@@ -1,44 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <!---Meta tags for search engines-->
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Drama Kids! A drama group for children" />
-        <meta name="keywords" content="Drama, drama group, drama kids, kids group, play group, children's theatre, kids, children"/>
-        <meta name="author" content="Liza-Ann McAllister" />
-        <!-- connecting css by using relative path -->
-        <link rel="stylesheet" href="assets/css/style.css" />
-        <!--Favicon-->
-        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png"/>
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png"/>
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png"/>
-        <link rel="manifest" href="assets/favicon/site.webmanifest" />
-        <!--Title-->
-        <title>Drama Kids!</title>
-    </head>
-    <body>
+<head>
+    <!---Meta tags for search engines-->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Drama Kids! A drama group for children" />
+    <meta name="keywords"
+        content="Drama, drama group, drama kids, kids group, play group, children's theatre, kids, children" />
+    <meta name="author" content="Liza-Ann McAllister" />
+    <!-- connecting css by using relative path -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <!--Favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="assets/favicon/site.webmanifest" />
+    <!--Title-->
+    <title>Drama Kids!</title>
+</head>
+<body>
     <!--Header-->
     <header>
+        <!-- Anchor for h1 to direct user back to homepage once h1 is clicked -->
         <a href="index.html">
-        <h1 class="logo">
-        <span class="color-change1">D</span
-        ><span class="color-change2">r</span
-        ><span class="color-change3">a</span
-        ><span class="color-change4">m</span
-        ><span class="color-change5">a</span>
-        <span class="kid"><i class="fa-solid fa-child-reaching"></i></span>
-        <span class="color-change1">K</span
-        ><span class="color-change2">i</span
-        ><span class="color-change3">d</span
-        ><span class="color-change4">s</span
-        ><span class="color-change5">!</span>
-        </h1>
+            <h1 class="logo">
+                <!--Drama Kids! letters separated into spans to allow for hover color change styling in style.css-->
+                <span class="color-change1">D</span><span class="color-change2">r</span><span
+                    class="color-change3">a</span><span class="color-change4">m</span><span
+                    class="color-change5">a</span>
+                <span class="kid"><i class="fa-solid fa-child-reaching"></i></span>
+                <span class="color-change1">K</span><span class="color-change2">i</span><span
+                    class="color-change3">d</span><span class="color-change4">s</span><span
+                    class="color-change5">!</span>
+            </h1>
         </a>
+        <!--Nav bar and toggle-->
         <input type="checkbox" id="nav-toggle" name="nav-toggle" />
-        <label for="nav-toggle" class="nav-toggle-label"
-        ><i class="fa-solid fa-bars"></i
-        ></label>
+        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
         <nav>
             <ul class="menu">
                 <li><a href="index.html">Home</a></li>
@@ -47,131 +45,91 @@
             </ul>
         </nav>
     </header>
-
     <!--Main content-->
     <main>
         <section class="gallery">
-        <div class="drama_photos">
-            <h2 class="hidden-h2">Gallery</h2>
-            <img class="photo"
-            src="assets/images/arm_prop.jpg"
-            alt="3 children smiling and pointing at a picture"/>
-            <img class="photo"
-            src="assets/images/acting.jpg"
-            alt="Three children playing a mime game"/>
-            <img class="photo"
-            src="assets/images/classroom.jpg"
-            alt="Lots of children sitting in a circle with their hands raised to get the teacher's attention"/>
-            <img class="photo"
-            src="assets/images/drama_game.jpg"
-            alt="Lots of children and one male teacher gathered around a piano singing"/>
-            <img class="photo"
-            src="assets/images/drama_lesson_gallery.jpg"
-            alt="7 children sitting on chairs in a row and 2 teachers in a drama classroom"/>
-            <img class="photo"
-            src="assets/images/kids_drama_club.jpg"
-            alt="3 Children jumping in the air and smiling"/>
-            <img class="photo"
-            src="assets/images/kids_listening.jpg"
-            alt="6 children sitting on chairs in a row and playing a drama game"/>
-            <img class="photo"
-            src="assets/images/kids_in_classroom.jpg"
-            alt="Children sitting in a classroom environment"/>
-            <img class="photo"
-            src="assets/images/kids_playing_with_rainbow_sheet.jpg"
-            alt="Children playing outdoors with a rainbow sheet"/>
-            <img class="photo"
-            src="assets/images/kids_playing_with_rainbow_sheet_two.jpg"
-            alt="Children and an adult playing outdoors with a rainbow sheet"/>
-            <img class="photo"
-            src="assets/images/two_kids_reading.jpg"
-            alt="2 children reading a book"/>
-            <img class="photo"
-            src="assets/images/kids_balancing.jpg"
-            alt="3 children standing in a row and balancing on one foot"/>
-            <img class="photo"
-            src="assets/images/kids_hands.jpg"
-            alt="Children sitting in a circle with their hands on the ground"/>
-            <img class="photo"
-            src="assets/images/kids_in_a_circle.jpg"
-            alt="Children sitting in a circle facing eachother"/>
-        </div>
+            <div class="drama_photos">
+                <!-- Hidden h2 element for gallery page -->
+                <h2 class="hidden-h2">Gallery</h2>
+                <!-- Images of children participating in drama workshops -->
+                <img class="photo" src="assets/images/arm_prop.jpg"
+                    alt="3 children smiling and pointing at a picture">
+                <img class="photo" src="assets/images/acting.jpg" alt="Three children playing a mime game">
+                <img class="photo" src="assets/images/classroom.jpg"
+                    alt="Lots of children sitting in a circle with their hands raised to get the teacher's attention">
+                <img class="photo" src="assets/images/drama_game.jpg"
+                    alt="Lots of children and one male teacher gathered around a piano singing">
+                <img class="photo" src="assets/images/drama_lesson_gallery.jpg"
+                    alt="7 children sitting on chairs in a row and 2 teachers in a drama classroom">
+                <img class="photo" src="assets/images/kids_drama_club.jpg"
+                    alt="3 Children jumping in the air and smiling">
+                <img class="photo" src="assets/images/kids_listening.jpg"
+                    alt="6 children sitting on chairs in a row and playing a drama game">
+                <img class="photo" src="assets/images/kids_in_classroom.jpg"
+                    alt="Children sitting in a classroom environment">
+                <img class="photo" src="assets/images/kids_playing_with_rainbow_sheet.jpg"
+                    alt="Children playing outdoors with a rainbow sheet">
+                <img class="photo" src="assets/images/kids_playing_with_rainbow_sheet_two.jpg"
+                    alt="Children and an adult playing outdoors with a rainbow sheet">
+                <img class="photo" src="assets/images/two_kids_reading.jpg" alt="2 children reading a book">
+                <img class="photo" src="assets/images/kids_balancing.jpg"
+                    alt="3 children standing in a row and balancing on one foot">
+                <img class="photo" src="assets/images/kids_hands.jpg"
+                    alt="Children sitting in a circle with their hands on the ground">
+                <img class="photo" src="assets/images/kids_in_a_circle.jpg"
+                    alt="Children sitting in a circle facing eachother">
+            </div>
         </section>
+        <!-- Call to action button. When clicked user will be directed to 'Contact Us' page to fill out a form -->
         <section>
             <div class="center">
-                <a href="contactus.html" class="cta-button" aria-label="Visit our 'Contact Us' page (This link opens up the 'Contact Us' page)"
-                >Join our mailing list and get a free taster session!</a>
-        </div>
+                <a href="contactus.html" class="cta-button"
+                    aria-label="Visit our 'Contact Us' page (This link opens up the 'Contact Us' page)">Join our mailing
+                    list and get a free taster session!</a>
+            </div>
         </section>
     </main>
-
     <!--Footer-->
     <footer>
-      <section class="footer-connect">
-        <h3 class="connect">
-          Connect with us on social media for more information
-        </h3>
-        <ul class="social-networks">
-          <li>
-            <a
-              href="https://www.facebook.com/"
-              class="social-media-icon"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our Facebook page (opens in a new tab)">
-              <i class="fa-brands fa-facebook"></i
-            ></a>
-          </li>
-          <li>
-            <a
-              href="https://www.twitter.com/"
-              class="social-media-icon"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our Twitter page (opens in a new tab)">
-              <i class="fa-brands fa-twitter-square"></i
-            ></a>
-          </li>
-          <li>
-            <a
-              href="https://www.youtube.com/"
-              class="social-media-icon"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our YouTube page (opens in a new tab)">
-              <i class="fa-brands fa-youtube-square"></i
-            ></a>
-          </li>
-          <li>
-            <a
-              href="https://www.instagram.com/"
-              class="social-media-icon"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our Instagram page (opens in a new tab)">
-              <i class="fa-brands fa-instagram"></i
-            ></a>
-          </li>
-          <li>
-            <a
-              href="https://www.tiktok.com/"
-              class="social-media-icon"
-              target="_blank"
-              rel="noopener"
-              aria-label="Visit our Tik Tok page (opens in a new tab)">
-              <i class="fa-brands fa-tiktok"></i
-            ></a>
-          </li>
-        </ul>
-
-        <h3 class="copyright">&copy; 2023 Drama Kids! All rights reserved</h3>
-      </section>
+        <!-- Footer contains links to social media pages -->
+        <section class="footer-connect">
+            <!-- h3 inviting user to click on social media icons -->
+            <h3 class="connect">
+                Connect with us on social media for more information
+            </h3>
+            <!-- Social media icons used with <a> elements. When clicked links will open on a separate page -->
+            <ul class="social-networks">
+                <li>
+                    <a href="https://www.facebook.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Facebook page (opens in a new tab)">
+                        <i class="fa-brands fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.twitter.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Twitter page (opens in a new tab)">
+                        <i class="fa-brands fa-twitter-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our YouTube page (opens in a new tab)">
+                        <i class="fa-brands fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Instagram page (opens in a new tab)">
+                        <i class="fa-brands fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.tiktok.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Tik Tok page (opens in a new tab)">
+                        <i class="fa-brands fa-tiktok"></i></a>
+                </li>
+            </ul>
+            <!-- h3 section outlining copyright -->
+            <h3 class="copyright">&copy; 2023 Drama Kids! All rights reserved</h3>
+        </section>
     </footer>
-
     <!--Font Awesome kit-->
-    <script
-      src="https://kit.fontawesome.com/2ae4c5db66.js"
-      crossorigin="anonymous"
-    ></script>
-  </body>
+    <script src="https://kit.fontawesome.com/2ae4c5db66.js" crossorigin="anonymous"></script>
+</body>
 </html>
