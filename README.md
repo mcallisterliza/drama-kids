@@ -229,16 +229,39 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 - Roboto Google Font was used for the main logo and headings to attract the user's attention whilst also being accessible to read.
 
-
-### Wireframes
-
 ---
 
 ## Testing
 
-Please refer to [TO BE ADDED] for all testing documentation.
+## Validator testing
++ ### HTML
+  #### Home Page
+    - No errors or warnings were found when passing through the official W3C validator.
+      ![homepage_validator](https://github.com/mcallisterliza/drama-kids/assets/145555751/a61a248d-ec95-48f4-ac35-b6aac131ec66)
 
-### Validator Testing
+
+  #### Gallery Page
+    - No errors or warnings were found when passing through the official W3C validator.
+      ![gallery_validator](https://github.com/mcallisterliza/drama-kids/assets/145555751/8846af3c-bdea-4401-8755-f540b3884d05)
+
+    
+
+  #### Contact Page
+    - No errors or warnings were found when passing through the official W3C validator.
+    ![contactus_validator](https://github.com/mcallisterliza/drama-kids/assets/145555751/6f0122f2-c8bc-4b72-9ca4-b2da4099bd56)
+
+    
+
+  #### Response Page
+    - No errors or warnings were found when passing through the official W3C validator.
+    ![response_validator](https://github.com/mcallisterliza/drama-kids/assets/145555751/e8691768-48ab-43ae-b4da-c32b20f08805)
+
+
+
++ ### CSS
+  - No errors or warnings were found when passing through the official W3C validator.
+    ![css_validator](https://github.com/mcallisterliza/drama-kids/assets/145555751/f4456b4b-a1ba-4d94-b96d-70c4cafc5d3a)
+
 
 ### Fixed Bugs
 
