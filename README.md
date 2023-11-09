@@ -279,7 +279,7 @@ In your IDE Terminal, type the following command to clone my repository:
 
 - [Icons](https://fontawesome.com/icons) Icons taken from Font Awesome.
 
-### Images
+### Media
 All images were taken from [Pexels](https://www.pexels.com/)
 - [Hero image](https://www.pexels.com/photo/children-with-her-students-holding-different-color-bells-8535230/)
 - [1st review image](https://www.pexels.com/photo/woman-in-collared-shirt-774909/)
@@ -300,10 +300,6 @@ All images were taken from [Pexels](https://www.pexels.com/)
 - [12th gallery image](https://www.pexels.com/photo/group-of-children-playing-on-green-grass-8613319/)
 - [13th gallery image](https://www.pexels.com/photo/preschool-children-doing-hand-exercise-with-teachers-8613366/)
 - [Contact & response page background image](https://www.pexels.com/photo/group-of-children-sitting-on-white-chairs-8422135/)
-
-
-
-#### Media
 
 #### Tools
 
