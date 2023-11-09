@@ -224,6 +224,10 @@ main {
 }
 
 /* Call to action button*/
+.h2-button {
+    display: none;
+}
+
 .center {
     text-align: center;
     padding-bottom: 15px;
