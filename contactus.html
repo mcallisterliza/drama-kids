@@ -1,154 +1,126 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <!---Meta tags for search engines-->
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Drama Kids! A drama group for children" />
-        <meta name="keywords" content="Drama, drama group, drama kids, kids group, play group, children's theatre, kids, children"
-        />
-        <meta name="author" content="Liza-Ann McAllister" />
-        <!-- connecting css by using relative path -->
-        <link rel="stylesheet" href="assets/css/style.css" />
-        <!--Favicon-->
-        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png"
-        />
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png"
-        />
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="assets/favicon/site.webmanifest" />
-        <!--Title-->
-        <title>Drama Kids!</title>
-    </head>
+<head>
+    <!---Meta tags for search engines-->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Drama Kids! A drama group for children">
+    <meta name="keywords"
+        content="Drama, drama group, drama kids, kids group, play group, children's theatre, kids, children" />
+    <meta name="author" content="Liza-Ann McAllister">
+    <!-- connecting css by using relative path -->
+    <link rel=" stylesheet" href="assets/css/style.css" />
+    <!--Favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="assets/favicon/site.webmanifest" />
+    <!--Title-->
+    <title>Drama Kids!</title>
+</head>
 <body>
     <!--Header-->
     <header>
         <a href="index.html">
+            <!-- Anchor for h1 to direct user back to homepage once h1 is clicked -->
             <h1 class="logo">
-                <span class="color-change1">D</span><span class="color-change2">r</span><span class="color-change3">a</span><span class="color-change4">m</span><span class="color-change5">a</span>
+                <!--Drama Kids! letters separated into spans to allow for hover color change styling in style.css-->
+                <span class="color-change1">D</span><span class="color-change2">r</span><span
+                    class="color-change3">a</span><span class="color-change4">m</span><span
+                    class="color-change5">a</span>
                 <span class="kid"><i class="fa-solid fa-child-reaching"></i></span>
-                <span class="color-change1">K</span><span class="color-change2">i</span><span class="color-change3">d</span><span class="color-change4">s</span><span class="color-change5">!</span>
+                <span class="color-change1">K</span><span class="color-change2">i</span><span
+                    class="color-change3">d</span><span class="color-change4">s</span><span
+                    class="color-change5">!</span>
             </h1>
         </a>
+        <!--Nav bar and toggle-->
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
         <nav>
             <ul class="menu">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contactus.html"class="active">Contact Us</a></li>
+                <li><a href="contactus.html" class="active">Contact Us</a></li>
             </ul>
         </nav>
     </header>
-
     <!--Main content-->
+    <!-- Contact us form -->
     <main class="contact-us-form">
         <section class="form">
             <h2>Contact Us</h2>
             <form method="GET" action="response.html" class="">
-            <!-- First Name -->
-            <label class="label"="first_name">First Name:</label>
-            <input class="input" type="text" id="first_name" name="first_name" required>
-            <br>
-
-            <!-- Last Name -->
-            <label class="label" for="last_name">Last Name:</label>
-            <input class="input" type="text" id="last_name" name="last_name" required>
-            <br>
-
-            <!-- Telephone Number -->
-            <label class="label" for="telephone">Telephone Number:</label>
-            <input class="input" type="tel" id="telephone" name="telephone">
-            <br>
-
-            <!-- Email Address -->
-            <label class="label" for="email">Email Address:</label>
-            <input class="input" type="email" id="email" name="email" required>
-            <br>
-
-            <!-- Radio Buttons -->
-            <label><b>Choose one of the following:</b></label>
-            <br>
-            <input class="radio" type="radio" id="mailing_list" name="contact_option" value="mailing_list">
-            <label for="mailing_list">Join our mailing list and claim a free taster session</label>
-            <br>
-            <input class="radio" type="radio" id="call_back" name="contact_option" value="call_back">
-            <label for="call_back">Request a call back for further information</label>
-            <br>
-
-        <!-- Submit Button -->
-            <input class="form-button form-button-hover" type="submit" value="Submit">
+                <!-- First Name -->
+                <label class="label"="first_name">First Name:</label>
+                <input class="input" type="text" id="first_name" name="first_name" required>
+                <br>
+                <!-- Last Name -->
+                <label class="label" for="last_name">Last Name:</label>
+                <input class="input" type="text" id="last_name" name="last_name" required>
+                <br>
+                <!-- Telephone Number. Note: this is not a required field as this is offputting for the user -->
+                <label class="label" for="telephone">Telephone Number:</label>
+                <input class="input" type="tel" id="telephone" name="telephone">
+                <br>
+                <!-- Email Address -->
+                <label class="label" for="email">Email Address:</label>
+                <input class="input" type="email" id="email" name="email" required>
+                <br>
+                <!-- Radio Buttons -->
+                <label><b>Choose one of the following:</b></label>
+                <br>
+                <input class="radio" type="radio" id="mailing_list" name="contact_option" value="mailing_list">
+                <label for="mailing_list">Join our mailing list and claim a free taster session</label>
+                <br>
+                <input class="radio" type="radio" id="call_back" name="contact_option" value="call_back">
+                <label for="call_back">Request a call back for further information</label>
+                <br>
+                <!-- Submit Button -->
+                <input class="form-button form-button-hover" type="submit" value="Submit">
         </section>
     </main>
-
     <!--Footer-->
     <footer>
+        <!-- Footer contains links to social media pages -->
         <section class="footer-connect">
-          <h3 class="connect">
-            Connect with us on social media for more information
-          </h3>
-          <ul class="social-networks">
-            <li>
-              <a
-                href="https://www.facebook.com/"
-                class="social-media-icon"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit our Facebook page (opens in a new tab)">
-                <i class="fa-brands fa-facebook"></i
-              ></a>
-            </li>
-            <li>
-              <a
-                href="https://www.twitter.com/"
-                class="social-media-icon"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit our Twitter page (opens in a new tab)">
-                <i class="fa-brands fa-twitter-square"></i
-              ></a>
-            </li>
-            <li>
-              <a
-                href="https://www.youtube.com/"
-                class="social-media-icon"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit our YouTube page (opens in a new tab)">
-                <i class="fa-brands fa-youtube-square"></i
-              ></a>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com/"
-                class="social-media-icon"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit our Instagram page (opens in a new tab)">
-                <i class="fa-brands fa-instagram"></i
-              ></a>
-            </li>
-            <li>
-              <a
-                href="https://www.tiktok.com/"
-                class="social-media-icon"
-                target="_blank"
-                rel="noopener"
-                aria-label="Visit our Tik Tok page (opens in a new tab)">
-                <i class="fa-brands fa-tiktok"></i
-              ></a>
-            </li>
-          </ul>
-  
-          <h3 class="copyright">&copy; 2023 Drama Kids! All rights reserved</h3>
+            <!-- h3 inviting user to click on social media icons -->
+            <h3 class="connect">
+                Connect with us on social media for more information
+            </h3>
+            <!-- Social media icons used with <a> elements. When clicked links will open on a separate page -->
+            <ul class="social-networks">
+                <li>
+                    <a href="https://www.facebook.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Facebook page (opens in a new tab)">
+                        <i class="fa-brands fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.twitter.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Twitter page (opens in a new tab)">
+                        <i class="fa-brands fa-twitter-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our YouTube page (opens in a new tab)">
+                        <i class="fa-brands fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Instagram page (opens in a new tab)">
+                        <i class="fa-brands fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.tiktok.com/" class="social-media-icon" target="_blank" rel="noopener"
+                        aria-label="Visit our Tik Tok page (opens in a new tab)">
+                        <i class="fa-brands fa-tiktok"></i></a>
+                </li>
+            </ul>
+            <!-- h3 section outlining copyright -->
+            <h3 class="copyright">&copy; 2023 Drama Kids! All rights reserved</h3>
         </section>
-      </footer>
-  
-      <!--Font Awesome kit-->
-      <script
-        src="https://kit.fontawesome.com/2ae4c5db66.js"
-        crossorigin="anonymous"
-      ></script>
-    </body>
-  </html>
+    </footer>
+    <!--Font Awesome kit-->
+    <script src="https://kit.fontawesome.com/2ae4c5db66.js" crossorigin="anonymous"></script>
+</body>
+</html>
