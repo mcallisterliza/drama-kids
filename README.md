@@ -242,6 +242,13 @@ Please refer to [TO BE ADDED] for all testing documentation.
 
 ### Fixed Bugs
 
+- When I deployed my project to Github pages I relaised that my website was not working correctly as the four images from my reviews section were showing as broken links. After some investigation I realised that I had used incorrect file paths in my code. I had used incorrect file paths. In my code was: "/assets/images/pic2.png". After revisiting the lesson on file paths I realised I needed to remove the first slash from this code for my images to work. Once I removed this slash my images were working.
+- When I ran Lighthouse on my project I had an error messages for my call to action button for accessibility. After reading the guidance from Lighthouse and re examining my code I realised that my aria-label did not match text shown to the user on the button. I corrected this error and ran Lighthouse again and gained 100% for accessibility.
+- When I deployed my project to Github I realised that my hero image did not scroll with the rest of the homepage content. I revisited my CSS code and relaised that I had positioned my hero image as 'fixed'. I corrected this and when I viewed my live project again my hero image scrolled as originally planned.
+- When I ran my HTML code through the HTML validator I recieved a number of error messages for unexpected slashes in self closing tags. I revisited my code and used the HTML error message as a guidance and went to the referenced line of code and found the error. I corrected this by removing the slash. I then ran my HTML through the validator once more and the result came back with no error messages.
+- When I ran Lighthouse on my project my performance score was extremely low and this was due to the large images I have in my project. I spent a lot of time compressing each image over and over again. I added my new compressed images and ran Lighthouse again. My performance score greatly improved however it still stated that my images were too big. I once again attempted to compress the images further but unfortunatley I could not compress the images any further without resulting in very poor image quality. Therefore I kept the images as they were. My performance score has greatly improved since I compressed my images but I am unable to compress them any further.
+- 
+
 ### Unfixed Bugs
 
 ---
