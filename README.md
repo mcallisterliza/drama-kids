@@ -262,7 +262,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   - No errors or warnings were found when passing through the official W3C validator.
     ![css_validator](https://github.com/mcallisterliza/drama-kids/assets/145555751/f4456b4b-a1ba-4d94-b96d-70c4cafc5d3a)
 
-+ ## LightHouse report
++ ## Lighthouse report
 
     - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
     
