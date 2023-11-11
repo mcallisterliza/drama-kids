@@ -267,20 +267,22 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
     - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
     
   ### Home page
+    ![lighthouse_homepage](https://github.com/mcallisterliza/drama-kids/assets/145555751/c7a69e14-96f4-4c69-8f60-acf8d45e7b35)
 
-  SCREENSHOT TO BE ADDED
-
+  
   ### Gallery page
+    ![lighthouse_gallery](https://github.com/mcallisterliza/drama-kids/assets/145555751/106757ef-3637-4986-a35c-91a1c11599f3)
 
-  SCREENSHOT TO BE ADDED
-
+  
   ### Contact page
+    ![lighthouse_contactus](https://github.com/mcallisterliza/drama-kids/assets/145555751/69b51c18-0d23-49ed-9d54-dabf1913f378)
 
-  SCREENSHOT TO BE ADDED
 
   ### Response page
+      ![lighthouse_response](https://github.com/mcallisterliza/drama-kids/assets/145555751/d0ee3512-5b67-4c9a-9de2-8784002c8c5a)
 
-  SCREENSHOT TO BE ADDED
+#### Note: 
+ I have compressed my images for my page numerous times. Unfortunatley I cannot compress these images any further as the quality was starting to become quite poor. This has had an impact on my performance score.
 
 ---
 
