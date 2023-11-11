@@ -140,7 +140,7 @@ main {
 
 /* Styles for the orange overlay on top of hero image with tag line for Drama Kids! */
 .cover-text {
-    background-color: rgba(228, 121, 33, 0.703);
+    background-color: #e47921b3;
     font-size: 120%;
     position: absolute;
     bottom: 30px;
@@ -251,17 +251,18 @@ main {
 
 /* Changes button colour to orange when hovered over */
 .cta-button:hover {
-    background-color: rgba(228, 121, 33);
+    background-color: #e47921;
 }
 
 /* Footer */
 /* Changes social media icons to orange when hovered over */
+/* Hidden h2 element in footer to keep semantic structure */
 .h2-footer {
     display: none
 }
 
 .social-media-icon i:hover {
-    color: rgba(228, 121, 33) !important;
+    color: #e47921 !important;
 }
 
 .social-networks {
@@ -320,7 +321,7 @@ main {
 
 /* Hover style used so border of photos will change color to orange when hovered over */
 .photo:hover {
-    border: 3px solid rgba(228, 121, 33);
+    border: 3px solid #e47921;
     transition: 0.5s;
 }
 
@@ -337,13 +338,13 @@ main {
 }
 
 .form {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: #ffffffcc;
     max-width: 500px;
     margin: 6em auto;
     padding: 20px;
     padding-top: 60px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 10px #0000004d;
 }
 
 .form h2 {
@@ -384,17 +385,17 @@ main {
 
 /* Hover style use on submit button to change color to orange when hovered over */
 .form-button-hover:hover {
-    background-color: rgba(228, 121, 33);
+    background-color: #e47921;
 }
 
 /* Response Page */
 .response {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: #ffffffcc;
     max-width: 500px;
     margin: 10em auto;
     padding: 15px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 10px #0000004d;
 }
 
 .response h2 {
