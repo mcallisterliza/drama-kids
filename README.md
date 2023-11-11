@@ -40,10 +40,10 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
     - The nav bar also contains three links on the right hand side:
         * HOME - This leads the user to the Home page where they can navigate through the company's 'About Us' section, the address and opening times, reviews from clients and a footer with links to  the company's social media pages.
         * GALLERY - This leads the user to the gallery where the user can view images of different Drama Kids! members participating in performing arts workshops.
-        * CONTACT US - This leads the user to the contact page where they can conact the company and request whether to join the mailing list or request a callback for further information.
+        * CONTACT US - This leads the user to the contact page where they can contact the company and request whether to join the mailing list or request a callback for further information.
     - The above links have animated hover effect.
       
-    - The navigation is is clear and concise and is easy for the user to use:
+    - The navigation is clear and concise and is easy for the user to use:
  
       <img width="538" alt="nav_bar" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/15ed73b5-a59f-4633-9f60-eac52f1acfb8">
 
@@ -63,7 +63,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
       **Rainbow Surprise**
 
-      The h1 element/logo has a feature added to it which is not obvious to the user when they first view the page. If the user hovers the cursor over the h1/logo the letters d, r, a, m, a, k, i, d, s and ! change to different colours         respectively. This is a 'hidden gem' on the page for playfullness. It gives the page a sense of playfulness and positivity which is what a child's drama group should reflect.
+      The h1 element/logo has a feature added to it which is not obvious to the user when they first view the page. If the user hovers the cursor over the h1/logo the letters d, r, a, m, a, k, i, d, s and ! change to different colors         respectively. This is a 'hidden gem' on the page for playfulness. It gives the page a sense of playfulness and positivity which is what a child's drama group should reflect.
       
       <img width="267" alt="h1blue" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/fbfd54ca-e415-4d47-8ba9-93bd7cbdf81b">
 
@@ -89,7 +89,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 #### Hero Section
 
-* The hero section section has a non fixed background image of a children's drama group.
+* The hero section has a non fixed background image of a children's drama group.
 
 * The hero section contains cover text which over lays the hero image. This text briefly outlines that Drama Kids! is a drama group which facilitates performing arts workshops for under 16s.
 
@@ -99,7 +99,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 #### 'About Us' and 'Times & Location' sections:
 
-* The 'About Us' section informs the user what the company is about and explores the company's ehtos and passion for engaging children in performing arts whilst in a safe environment.
+* The 'About Us' section informs the user what the company is about and explores the company's ehthos and passion for engaging children in performing arts whilst in a safe environment.
   
 * The Times & Location' section clearly defines days and times of the sessions along with the full address of Drama Kids!
 
@@ -111,7 +111,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 * Reviews section has four reviews from people who were satisfied with the service their child experienced with the company.
   
-* Each review has a image of the person who has left the review.
+* Each review has an image of the person who has left the review.
   
 * Icons have been used to enclose the speech from each person.
   
@@ -145,7 +145,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ### Gallery Page
 
-* The gallery page have the same nav bar as the homepage.
+* The gallery page has the same nav bar as the homepage.
 
 * The gallery page has photos of the members of Drama Kids! participating in performing arts workshops.
   
@@ -155,7 +155,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   
 * At the bottom of the page there is another call to action button which is the same as the button on the home page and has the same responsiveness.
   
-* The footer is also identical the footer on the home page with the same responsiveness.
+* The footer is also identical to the footer on the home page with the same responsiveness.
 
   <img width="410" alt="gallery" src="https://github.com/mcallisterliza/drama-kids/assets/145555751/0af3fb2b-aa3e-45c0-af1b-b2a61ccb9c57">
 
@@ -172,7 +172,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
       - 'Join our mailing list and claim a free taster session'
       - 'Request a call back for further information'
 
-* The submit button is responsive when the use hovers over it and changes color to orange and directs the user to the response page.
+* The submit button is responsive when the user hovers over it and changes color to orange and directs the user to the response page.
   
 * The contact page is responsive and adapts to different screen sizes.
 
@@ -185,7 +185,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 * The user is directed to the response page when the user clicks the submit button on the form on the contact page (when all required fields are filled in).
   
-* The Response page contains a brief thank you message to the user and informs the user that the company will contact the user withing 24 to 72 hours.
+* The response page contains a brief thank you message to the user and informs the user that the company will contact the user withing 24 to 72 hours.
   
 * After ten seconds on the contact page the page will automatically direct the user to the home page.
   
@@ -197,7 +197,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the website.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add style to the HTML to give the website its style.
-- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrnage items on the webpage.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items on the webpage.
 - [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make "gallery" and "contact" pages responsive.
 - [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
 - [VSCode](https://code.visualstudio.com/) was used to write and edit the code.
@@ -210,7 +210,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ### Color Scheme
 
-* #FFFFFF White was used as the main colour of the website to give it a simplistic and clean look. White conveys a sense of freedom and it gives the user the visual breathing space to absorb the information presented on the screen.
+* #FFFFFF White was used as the main color of the website to give it a simplistic and clean look. White conveys a sense of freedom and it gives the user the visual breathing space to absorb the information presented on the screen.
   
 * #252525 Very dark gray was used for text, separation of content and the footer. This worked well to contrast with the white background. It created a website that was accessible to read.
   
@@ -289,9 +289,9 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 - When I deployed my project to Github pages I realised that my website was not working correctly as the four images from my reviews section were showing as broken links. After some investigation I realised that I had used incorrect file paths in my code. In my code was: "/assets/images/pic2.png". After revisiting the lesson on file paths I realised I needed to remove the first slash from this code for my images to work. Once I removed this slash my images were working.
   
-- When I ran Lighthouse on my project I had an error messages for my call to action button for accessibility. After reading the guidance from Lighthouse and re-examining my code I realised that my aria-label did not match text shown to the user on the button. I corrected this error and ran Lighthouse again and gained 100% for accessibility.
+- When I ran Lighthouse on my project I had an error message for my call to action button for accessibility. After reading the guidance from Lighthouse and re-examining my code I realised that my aria-label did not match text shown to the user on the button. I corrected this error and ran Lighthouse again and gained 100% for accessibility.
   
-- When I deployed my project to Github I realised that my hero image did not scroll with the rest of the homepage content. I revisited my CSS code and relaised that I had positioned my hero image as 'fixed'. I corrected this and when I viewed my live project again my hero image scrolled as originally planned.
+- When I deployed my project to Github I realised that my hero image did not scroll with the rest of the homepage content. I revisited my CSS code and realised that I had positioned my hero image as 'fixed'. I corrected this and when I viewed my live project again my hero image scrolled as originally planned.
   
 - When I ran my HTML code through the HTML validator I recieved a number of error messages for unexpected slashes in self closing tags. I revisited my code and used the HTML error message as a guidance and went to the referenced line of code and found the error. I corrected this by removing the slash. I then ran my HTML through the validator once more and the result came back with no error messages.
   
@@ -300,7 +300,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ### Unfixed Bugs
 
-- On screen sizes similar to tablets I have found that my footer has 2 white lines running horrizontally through the black footer. Before submitting this project I did not have time to investigate and fix this bug. I will however revisit this at a later date to find out how to correct this error for my own learning.
+- On screen sizes similar to tablets I have found that my footer has 2 white lines running horizontally through the black footer. Before submitting this project I did not have time to investigate and fix this bug. I will however revisit this at a later date to find out how to correct this error for my own learning.
 
 ## Deployment
 
@@ -323,9 +323,9 @@ In your IDE Terminal, type the following command to clone my repository:
 
 - I would like to improve the quality of my commit messages. I am aware at times that some of my commit messages may not be very clear and this is something I look forward to improving in my future projects.
   
-- I would like to have put more content onto my gallery page such as interactive figurecaptions so when the user hovered over the images styled figurecaptions appeared and gave the user more information about the benefits of the activities that the children were particpating in. An example of this would be when the image of the children playing mime games was hovered over a styles figurecaption would appear as an overlay of the image may note: "Mime is a fun and creative form of imaginitive play which allows the participant to develop their communication skills without the use of speech".
+- I would like to have put more content onto my gallery page such as interactive figurecaptions so when the user hovered over the images, styled figurecaptions appeared and gave the user more information about the benefits of the activities that the children were particpating in. An example of this would be when the image of the children playing mime games was hovered over, a styles figurecaption would appear as an overlay of the image may note: "Mime is a fun and creative form of imaginitive play which allows the participant to develop their communication skills without the use of speech".
   
-- I would like to have put an interactive map on the 'Contact Us' page where the user could clearly see the location of Drama Kids! on the map and zoom in and out of the location to plan their journey to the sessions
+- I would like to have put an interactive map on the 'Contact Us' page where the user could clearly see the location of Drama Kids! on the map and zoom in and out of the location to plan their journey to the sessions.
 
 ---
 
