@@ -294,6 +294,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 | Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
 | Gallery | Click on the "Gallery" link | The user is redirected to the gallery page | Yes | Yes | - |
 | Contact Us | Click on the "Contact Us" link | The user is redirected to the 'Contact Us page | Yes | Yes | - |
+| Drama Kids! h1 logo | Hover over h1 letters | Letters change to different colors respectively when user hovers ovr them | Yes | Yes | - |
 | Footer | | | | | |
 | Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | - |
 | Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | - |
