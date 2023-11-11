@@ -281,9 +281,40 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   ### Response page
   ![lighthouse_response](https://github.com/mcallisterliza/drama-kids/assets/145555751/3d99ccd5-cb3f-4fa2-b469-6c07f8df57ba)
 
-
 #### Note: 
  I have compressed my images for my page numerous times. Unfortunately I cannot compress these images any further as the quality was starting to become quite poor. This has had an impact on my performance score.
+
+  ---
+
+## Manual testing
+
+| feature | action | expected result | tested | passed | comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
+| Gallery | Click on the "Gallery" link | The user is redirected to the gallery page | Yes | Yes | - |
+| Contact Us | Click on the "Contact Us" link | The user is redirected to the 'Contact Us page | Yes | Yes | - |
+| Footer | | | | | |
+| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | - |
+| Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | - |
+| YouTube icon in the footer | Click on the YouTube icon | The user is redirected to the YouTube page | Yes | Yes | - |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | - |
+| Tik Tok icon in the footer | Click on the Tik Tok icon | The user is redirected to the Tik Tok page | Yes | Yes | - |
+| Home page | | | | | |
+| Call to action button above footer | Click on the call to action button | The user is redirected to the 'Contact Us' page | Yes | Yes | - |
+| Gallery page | | | | | |
+| Images in the gallery | User hover the image | Image's background color changes to orange | Yes | Yes | - |
+| Call to action button above footer | Click on the call to action button | The user is redirected to the 'Contact Us' page | Yes | Yes | - |
+| Contact page | | | | | |
+| First name input | Enter the first name | The first name is entered | Yes | Yes | If user doesn't enter the first name, the error message appears |
+| Last name input | Enter the last name | The last name is entered | Yes | Yes | If user doesn't enter the last name, the error message appears |
+| Telephone input | Enter the telephone number | The telephone number is entered | Yes | Yes | Note: this is not a required field |
+| Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
+| Join mailing list checkbox | Click on the checkbox | The checkbox is checked | Yes | Yes | These checkboxes are not required as the user can choose not to join mail list or request callback and other reasons for contacting |
+| Request callback | Click on the checkbox | The checkbox is checked | Yes | Yes | These checkboxes are not required as the user can choose not to join mail list or request callback and other reasons for contacting |
+| "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
+| Response page | | | | | |
+| Response message | The user will be automatically redirected to the home page after 12 seconds | The user is redirected to the home page | Yes | Yes | - |
 
 ---
 
