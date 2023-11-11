@@ -279,10 +279,11 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 
   ### Response page
-      ![lighthouse_response](https://github.com/mcallisterliza/drama-kids/assets/145555751/d0ee3512-5b67-4c9a-9de2-8784002c8c5a)
+  ![lighthouse_response](https://github.com/mcallisterliza/drama-kids/assets/145555751/3d99ccd5-cb3f-4fa2-b469-6c07f8df57ba)
+
 
 #### Note: 
- I have compressed my images for my page numerous times. Unfortunatley I cannot compress these images any further as the quality was starting to become quite poor. This has had an impact on my performance score.
+ I have compressed my images for my page numerous times. Unfortunately I cannot compress these images any further as the quality was starting to become quite poor. This has had an impact on my performance score.
 
 ---
 
