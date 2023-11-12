@@ -398,20 +398,20 @@ main {
 .response {
     background-color: #ffffffcc;
     max-width: 500px;
-    margin: 10em auto;
+    margin: 10em 2em;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 0 10px #0000004d;
 }
 
 .response h2 {
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
     padding: 40px
 }
 
 .response p {
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
     padding: 40px
 }
