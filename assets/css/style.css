@@ -92,7 +92,7 @@ h3 {
 
 /* To ensure current menu item is underlined when user is on this page */
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 2px solid #e47921b3;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -106,10 +106,8 @@ nav {
     top: 100%;
 }
 
-.nav_home:hover,
-.nav_gallery:hover,
-.nav_contactus:hover {
-    border-bottom: 1px solid #3a3a3a;
+.menu a:hover {
+    border-bottom: 2px solid #e47921b3;
 }
 
 /*Nav toggle */
@@ -421,9 +419,6 @@ main {
 /*---MEDIA QUERIES---*/
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (max-width: 992px) {
-    .menu a:hover {
-        border-bottom: 1px solid #a39b9b;
-    }
 
     .drama_photos {
         column-count: 3;

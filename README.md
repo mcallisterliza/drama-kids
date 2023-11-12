@@ -13,19 +13,19 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 ---
 ## **User Stories**
 
-#### First Time Visitor Goals:
+### First Time Visitor Goals:
 
 * As a newcomer to the site, my objective is to gain a comprehensive understanding of Drama Kids! and its purpose.
 * As a first-time visitor, I aim to navigate the website effortlessly, ensuring quick access to the content I need.
 * As a first-time visitor, I wish to read reviews of this children's club, evaluating their validity and trustworthiness.
 
-#### Returning Visitor Goals:
+### Returning Visitor Goals:
 * As someone revisiting the site, I seek to browse images of children's activities to gauge whether my child would enjoy joining.
 * As a returning visitor, my goal is to delve into the group's ethos to assess its suitability for my child.
 * As a returning visitor, I intend to locate the contact page for reaching out to the group and obtaining more information so it is more comfortable for me.
 * As a returning visitor, I want to find community links, so that I can learn more about the company and get involved on their social media groups and chats.
 
-#### Frequent Visitor Goals:
+### Frequent Visitor Goals:
 * As a frequent visitor, I want to check whether there are any new reviews so I can see what like-minded people are saying about the company.
 * As a frequent visitor, I want to have the option of different reasons to contact the company and choose whether I am recontacted via mobile or mailing list.
 * As a frequent visitor, I want the option to be able to sign up for a free taster session where my child can engage with the company and decide whether we wish to enroll.
@@ -103,9 +103,9 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 ![About Us section](documentation/aboutus_section.png)
 ---
 
-#### 'Our Top Reviews' section:
+#### 'Our Top Reviews' section
 
-* Reviews section has four reviews from people who were satisfied with the service their child experienced with the company.
+* The reviews section has four reviews from people who were satisfied with the service their child experienced with the company.
   
 * Each review has an image of the person who has left the review.
   
@@ -131,7 +131,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 #### Footer
 
-* Footer contains icons of the social media pages used by the company.
+* The footer contains icons of the social media pages used by the company.
 
 * The icons react by changing color to orange when hovered over and when clicked the user is directed to the social media page in a new window.
 
@@ -194,8 +194,6 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the website.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add style to the HTML to give the website its style.
 - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items on the webpage.
-- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make "gallery" and "contact" pages responsive.
-- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
 - [VSCode](https://code.visualstudio.com/) was used to write and edit the code.
 - [Git](https://git-scm.com/) was used for the version control of the website.
 - [GitHub](https://github.com/) was used to host the code of the website.
@@ -256,28 +254,28 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 + ### CSS
   - No errors or warnings were found when passing through the official W3C validator.
-    ![css_validator](https://github.com/mcallisterliza/drama-kids/assets/145555751/f4456b4b-a1ba-4d94-b96d-70c4cafc5d3a)
+    ![CSS Validator](documentation/cass_validator.jpg)
 
 + ## Lighthouse report
 
-    - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
+    - Using lighthouse in devtools I confirmed that the website is performing well, accessible and the colors and fonts chosen are readable.
     
   ### Home page
-    ![lighthouse_homepage](https://github.com/mcallisterliza/drama-kids/assets/145555751/c7a69e14-96f4-4c69-8f60-acf8d45e7b35)
+    ![Home Page Lighthouse](documentation/homepage_lighthouse.jpg)
 
   
   ### Gallery page
-    ![lighthouse_gallery](https://github.com/mcallisterliza/drama-kids/assets/145555751/106757ef-3637-4986-a35c-91a1c11599f3)
+   ![Gallery Page Lighthouse](documentation/gallery_lighthouse.jpg)
 
   
   ### Contact page
-    ![lighthouse_contactus](https://github.com/mcallisterliza/drama-kids/assets/145555751/69b51c18-0d23-49ed-9d54-dabf1913f378)
+    ![Contact Us Page Lighthouse](documentation/homepage_lighthouse.jpg)
 
 
   ### Response page
-  ![lighthouse_response](https://github.com/mcallisterliza/drama-kids/assets/145555751/3d99ccd5-cb3f-4fa2-b469-6c07f8df57ba)
+  ![Response Page Lighthouse](documentation/response_lighthouse.jpg)
 
-#### Note: 
+### Note: 
  I have compressed my images for my page numerous times. Unfortunately I cannot compress these images any further as the quality was starting to become quite poor. This has had an impact on my performance score.
 
   ---
@@ -317,32 +315,32 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ### Fixed Bugs
 
-- When I deployed my project to Github pages I realised that my website was not working correctly as the four images from my reviews section were showing as broken links. After some investigation I realised that I had used incorrect file paths in my code. In my code was: "/assets/images/pic2.png". After revisiting the lesson on file paths I realised I needed to remove the first slash from this code for my images to work. Once I removed this slash my images were working.
+- When I deployed my project to Github pages I realized that my website was not working correctly as the four images from my reviews section were showing as broken links. After some investigation, I realized that I had used incorrect file paths in my code. In my code was: "/assets/images/pic2.png". After revisiting the lesson on file paths I realized I needed to remove the first slash from this code for my images to work. Once I removed this slash my images were working.
   
-- When I ran Lighthouse on my project I had an error message for my call to action button for accessibility. After reading the guidance from Lighthouse and re-examining my code I realised that my aria-label did not match text shown to the user on the button. I corrected this error and ran Lighthouse again and gained 100% for accessibility.
+- When I ran Lighthouse on my project I had an error message for my call to action button for accessibility. After reading the guidance from Lighthouse and re-examining my code I realized that my aria label did not match the text shown to the user on the button. I corrected this error and ran Lighthouse again and gained 100% for accessibility.
   
-- When I deployed my project to Github I realised that my hero image did not scroll with the rest of the homepage content. I revisited my CSS code and realised that I had positioned my hero image as 'fixed'. I corrected this and when I viewed my live project again my hero image scrolled as originally planned.
+- When I deployed my project to Github I realized that my hero image did not scroll with the rest of the homepage content. I revisited my CSS code and realized that I had positioned my hero image as 'fixed'. I corrected this and when I viewed my live project again my hero image scrolled as originally planned.
   
-- When I ran my HTML code through the HTML validator I recieved a number of error messages for unexpected slashes in self closing tags. I revisited my code and used the HTML error message as a guidance and went to the referenced line of code and found the error. I corrected this by removing the slash. I then ran my HTML through the validator once more and the result came back with no error messages.
+- When I ran my HTML code through the HTML validator I received error messages for unexpected slashes in self-closing tags. I revisited my code and used the HTML error message as guidance. I then went to the referenced line of code and found the error. I corrected this by removing the slash. I then ran my HTML through the validator once more and the result came back with no error messages.
   
-- When I ran Lighthouse on my project my performance score was extremely low and this was due to the large images I have in my project. I spent a lot of time compressing each image over and over again. I added my new compressed images and ran Lighthouse again. My performance score greatly improved however it still stated that my images were too big. I once again attempted to compress the images further but unfortunatley I could not compress the images any further without resulting in very poor image quality. Therefore I kept the images as they were. My performance score has greatly improved since I compressed my images but I am unable to compress them any further.
+- When I ran Lighthouse on my project my performance score was extremely low and this was due to the large images I have in my project. I spent a lot of time compressing each image over and over again. I added my new compressed images and ran Lighthouse again. My performance score greatly improved however it still stated that my images were too big. I once again attempted to compress the images further but unfortunately, I could not compress the images any further without resulting in very poor image quality. Therefore I kept the images as they were. My performance score has greatly improved since I compressed my images but I am unable to compress them any further.
 
 
 ### Unfixed Bugs
 
-- On screen sizes similar to tablets I have found that my footer has 2 white lines running horizontally through the black footer. Before submitting this project I did not have time to investigate and fix this bug. I will however revisit this at a later date to find out how to correct this error for my own learning.
+- On screen sizes similar to tablets I have found that my footer has 2 white lines running horizontally through the black footer. Before submitting this project I did not have time to investigate and fix this bug. I will however revisit this at a later date to find out how to correct this error for my learning.
 
 ## Deployment
 
 ### Deployment to GitHub Pages
 
 - This site was deployed to GitHub pages. The steps I took to deploy this project:
-- In the [GitHub Repository](https://github.com/mcallisterliza/drama-kids) go to 'Settings Tab'. From the source section I selected the 'Main Branch' and then clicked save. The page then refreshes and indicates the deployment was successful. Access the live link [here](https://github.com/mcallisterliza/drama-kids)
+- In the [GitHub Repository](https://github.com/mcallisterliza/drama-kids) go to 'Settings Tab'. From the source section, I selected the 'Main Branch' and then click save. The page then refreshes and indicates the deployment was successful. Access the live link [here](https://github.com/mcallisterliza/drama-kids)
   
 
-### Local Deployment
+### Local deployment
 
-In order to make a local copy of this project, you can clone it.
+To make a local copy of this project, clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
 - git clone "https://github.com/mcallisterliza/drama-kids.git"
@@ -351,9 +349,9 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ## Future improvements
 
-- I would like to improve the quality of my commit messages. I am aware at times that some of my commit messages may not be very clear and this is something I look forward to improving in my future projects.
+- I would like to improve the quality of my 'commit' messages. I am aware at times that some of my commit messages may not be very clear and this is something I look forward to improving in my future projects.
   
-- I would like to have put more content onto my gallery page such as interactive figurecaptions so when the user hovered over the images, styled figurecaptions appeared and gave the user more information about the benefits of the activities that the children were particpating in. An example of this would be when the image of the children playing mime games was hovered over, a styles figurecaption would appear as an overlay of the image may note: "Mime is a fun and creative form of imaginitive play which allows the participant to develop their communication skills without the use of speech".
+- I would like to have put more content onto my gallery page such as interactive 'figure-captions' so when the user hovered over the images, styled 'figure-captions' appeared and gave the user more information about the benefits of the activities that the children were participating in. An example of this would be when the image of the children playing mime games was hovered over, a styled 'figure-caption' would appear as an overlay of the image may note: "Mime is a fun and creative form of imaginative play which allows the participant to develop their communication skills without the use of speech".
   
 - I would like to have put an interactive map on the 'Contact Us' page where the user could clearly see the location of Drama Kids! on the map and zoom in and out of the location to plan their journey to the sessions.
 
@@ -361,9 +359,9 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ## Credits
 
-- [Font](https://fonts.google.com/) Fonts taken from Google Fonts.
+- [Font](https://fonts.google.com/) Fonts taken from Google Fonts
 
-- [Icons](https://fontawesome.com/icons) Icons taken from Font Awesome.
+- [Icons](https://fontawesome.com/icons) Icons were taken from Font Awesome.
 
 - Inspiration for my navigation bar and hero image came from the Love Running project I undertook with [The Code Institute](https://github.com/Code-Institute-Org)
 
@@ -389,9 +387,9 @@ All images were taken from [Pexels](https://www.pexels.com/)
 - [13th gallery image](https://www.pexels.com/photo/preschool-children-doing-hand-exercise-with-teachers-8613366/)
 - [Contact & response page background image](https://www.pexels.com/photo/group-of-children-sitting-on-white-chairs-8422135/)
 
-#### Tools
+### Tools
 
-- [Tiny png - Image Compressor](https://tinypng.com/) was used to compress images.
+- [Tiny 'png' - Image Compressor](https://tinypng.com/) was used to compress images.
 
 - [Compressor - Image Compressor](https://compressor.io/) was also used to compress images.
 
@@ -399,6 +397,6 @@ All images were taken from [Pexels](https://www.pexels.com/)
 
 - [Code Institute](https://codeinstitute.net/) the fantastic Slack community members and friends I have made during this project for their support, chats and help.
   
-- [Iuliias Konovalova](https://github.com/IuliiaKonovalova) my mentor who throughout who has given me great advice, constructive feedback and an overall sense of confidence and calmness whilst I have embarked on new learning.
+- [Iuliias Konovalova](https://github.com/IuliiaKonovalova) my mentor has given me great advice, constructive feedback and an overall sense of confidence and calmness whilst I have embarked on new learning.
   
 - [Kevin Powell](https://www.youtube.com/user/KepowOb) for his accessible and informative online tutorials.
