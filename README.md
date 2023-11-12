@@ -314,6 +314,14 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ---
 
+### Responsiveness
+- The website was checked with the responsive viewer in Chrome to assess responsiveness on different screen sizes.
+ ![Responsive screenshot](documentation/responsive_screenshot.png)
+
+### Compatibility
+- To confirm the correct functionality, responsiveness, and appearance the website was tested successfully on Chrome, Firefox and Microsoft Edge.
+
+
 
 ### Fixed Bugs
 
