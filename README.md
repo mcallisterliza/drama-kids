@@ -204,7 +204,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ### Color Scheme
 
-[Color Scheme](documentation/color_scheme.png)
+![Color Scheme](documentation/color_scheme.png)
 
 * #FFFFFF White was used as the main color of the website to give it a simplistic and clean look. White conveys a sense of freedom and it gives the user the visual breathing space to absorb the information presented on the screen.
   
