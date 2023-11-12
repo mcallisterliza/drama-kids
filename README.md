@@ -276,7 +276,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
   ![Response Page Lighthouse](documentation/response_lighthouse.jpg)
 
 ### Note: 
- I have compressed my images for my page numerous times. Unfortunately I cannot compress these images any further as the quality was starting to become quite poor. This has had an impact on my performance score.
+ I have compressed my images for my page numerous times. Unfortunately, I cannot compress these images any further as the quality was starting to become quite poor. This has had an impact on my performance score.
 
   ---
 
