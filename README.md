@@ -345,7 +345,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 To make a local copy of this project, clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
-- git clone "https://github.com/mcallisterliza/drama-kids.git"
+- git clone `https://github.com/mcallisterliza/drama-kids.git`
 
 ---
 
