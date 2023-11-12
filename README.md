@@ -204,6 +204,8 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
 
 ### Color Scheme
 
+[Color Scheme](documentation/color_scheme.png)
+
 * #FFFFFF White was used as the main color of the website to give it a simplistic and clean look. White conveys a sense of freedom and it gives the user the visual breathing space to absorb the information presented on the screen.
   
 * #252525 Very dark gray was used for text, separation of content and the footer. This worked well to contrast with the white background. It created a website that was accessible to read.
@@ -363,9 +365,21 @@ In your IDE Terminal, type the following command to clone my repository:
 
 - [Icons](https://fontawesome.com/icons) Icons were taken from Font Awesome.
 
-- Inspiration for my navigation bar and hero image came from the Love Running project I undertook with [The Code Institute](https://github.com/Code-Institute-Org)
+- [Tiny 'png' - Image Compressor](https://tinypng.com/) Used to compress images.
 
-### Media
+- [Compressor - Image Compressor](https://compressor.io/) Used to compress images.
+
+- [Coolors](https://coolors.co/) Color scheme image generated from 'Coolors'
+
+- [GitHub](https://github.com/) was used to deploy the website.
+
+- [VSCode](https://code.visualstudio.com/) was used to edit the code for the website.
+
+- [Pexels](https://www.pexels.com/) was used for media as seen below.
+
+- [The Code Institute](https://github.com/Code-Institute-Org) Inspiration for my navigation bar and hero image came from the Love Running project I undertook with The Code Institute.
+
+## Media
 All images were taken from [Pexels](https://www.pexels.com/)
 - [Hero image](https://www.pexels.com/photo/children-with-her-students-holding-different-color-bells-8535230/)
 - [1st review image](https://www.pexels.com/photo/woman-in-collared-shirt-774909/)
@@ -387,16 +401,18 @@ All images were taken from [Pexels](https://www.pexels.com/)
 - [13th gallery image](https://www.pexels.com/photo/preschool-children-doing-hand-exercise-with-teachers-8613366/)
 - [Contact & response page background image](https://www.pexels.com/photo/group-of-children-sitting-on-white-chairs-8422135/)
 
-### Tools
-
-- [Tiny 'png' - Image Compressor](https://tinypng.com/) was used to compress images.
-
-- [Compressor - Image Compressor](https://compressor.io/) was also used to compress images.
 
 ## Acknowledgments
 
-- [Code Institute](https://codeinstitute.net/) the fantastic Slack community members and friends I have made during this project for their support, chats and help.
+- [Code Institute](https://codeinstitute.net/) Thank you to the fantastic Slack community members and friends I have made during this project for their support, chats and help.
   
-- [Iuliias Konovalova](https://github.com/IuliiaKonovalova) my mentor has given me great advice, constructive feedback and an overall sense of confidence and calmness whilst I have embarked on new learning.
+- [Iuliias Konovalova](https://github.com/IuliiaKonovalova) Thank you to my mentor has given me great advice, constructive feedback and an overall sense of confidence and calmness whilst I have embarked on my new learning journey.
   
 - [Kevin Powell](https://www.youtube.com/user/KepowOb) for his accessible and informative online tutorials.
+
+- [GitHub](https://github.com/) Thank you to GitHub for providing a free space for me to deploy my website.
+
+- [VSCode](https://code.visualstudio.com/) Thank you to VS Code for providing a free space for me to build and edit my code.
+
+- Thank you to my wonderful family because without them I would not have been able to do this.
+
