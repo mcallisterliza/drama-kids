@@ -41,7 +41,7 @@ The site can be accessed via this [link](https://mcallisterliza.github.io/drama-
         * HOME - This leads the user to the Home page where they can navigate through the company's 'About Us' section, the address and opening times, reviews from clients and a footer with links to the company's social media pages.
         * GALLERY - This leads the user to the gallery where the user can view images of different Drama Kids! members participating in performing arts workshops.
         * CONTACT US - This leads the user to the contact page where they can contact the company and request whether to join the mailing list or request a callback for further information.
-    - The above links have an animated hover effect.
+    - The above links have an animated hover effect which underlines the words with orange to keep in with the page's color scheme.
       
     - The navigation is clear and concise and is easy for the user to use:
  
